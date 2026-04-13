@@ -1,7 +1,5 @@
 Translate the following hebrew text to English. Split the text on the : character, and output each line with its translation, in the following format.
 
-When including the original hebrew text, copy all of the nikudot and punctuation (including : and .) Insert a space and a backslash dnd a line break(to indicate a line break in Typst) after each . Try to add a Typst line break in the corresponding places in the English translation as well.
- 
 #linear_translation(
   [original hebrew text],
   [English translation]
@@ -9,15 +7,6 @@ When including the original hebrew text, copy all of the nikudot and punctuation
 
 Output these as a code block.
 
-This is the hebrew text to translate.
+When including the original hebrew text, copy all of the nikudot and punctuation (including : and .) Insert a space and a backslash dnd a line break(to indicate a line break in Typst) after each . Try to add a Typst line break in the corresponding places in the English translation as well.
 
-
-מִדֵּי שָׁנָה קִינָה. בְּלֵיל זֶה מְזֻמָּנָה. כִּי קִרְיָה נֶאֱמָנָה. בּוֹ הָיְתָה כְּאַלְמָנָה: 
-בּוֹ אֶבְכֶּה וְאָהִימָה. וּבוֹ פָנַי אַרְעִימָה. נְהִי נִהְיָה אָרִימָה. מִיָּמִים יָמִימָה: מדי שנה 
-בְּלֵיל זֶה מִכָּל לֵילוֹת. קִינָה בְּכָל מַקְהֵלוֹת. וּבוֹ שָׁתוּ כּוֹס תַּרְעֵלוֹת. דַּרְכֵי צִיּוֹן אֲבֵלוֹת: מדי שנה 
-לֵיל צוּר פָּקַד קִצְפּוֹ. וְשָׁלַח בִּי אֵשׁ רִשְׁפּוֹ. וְהוּשַׁת שִׁבְרִי לִסְפּוֹא. יֶחְשְׁכוּ כּוֹכְבֵי נִשְׁפּוֹ: מדי שנה 
-אֲנִי הַגֶּבֶר אוּמָל. לִרְאוֹת יָגוֹן וְעָמָל. בְּלֵיל זֶה רִשְׁעִי גָמַל. בִּלַּע יְהֹוָה וְלֹא חָמַל: מדי שנה 
-לֵיל בּוֹ אִירַע נוֹפֶל. לְמִגְדַּל בּוֹחֶן וָעוֹפֶל. וְשׁוּעַי יָשְׁבוּ בַשֶּׁפֶל. יִקָּחֵהוּ אוֹפֶל: 
-מדי שנה
-
-When a line ends with מדי שנה, omit it, aind include the linear_translation block of the first verse instead.
+When a line ends with one or more words that don't have nikudot, that's an indication that we should be repeating a chorus from earlier in the poem. Omit the words that are lacking the nikudot, and instead find those words in the first verse. Copy from those words to the end of the verse (in both Hebre and English) and include those as a separate linear_translation block.
