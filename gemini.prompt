@@ -1,4 +1,4 @@
-Translate the following hebrew text to English. Split the text on the : character, and output each line with its translation, in the following format.
+Translate the following hebrew text to English. Split the text on the : character, and output each line with its translation, in the following format, which is a Typst function call.
 
 #linear_translation(
   [original hebrew text],
@@ -7,6 +7,8 @@ Translate the following hebrew text to English. Split the text on the : characte
 
 Output these as a code block.
 
-When including the original hebrew text, copy all of the nikudot and punctuation (including : and .) Insert a space and a backslash dnd a line break(to indicate a line break in Typst) after each . Try to add a Typst line break in the corresponding places in the English translation as well.
+When including the original hebrew text, copy all of the nikudot and punctuation (including : and .). 
+There are a few places where I want you to add Typst line breaks. To do so, you will output a space, and a backslash, and then a line break. (Do not output a literal \n.)
+Insert a typst line break after each . Try to add a Typst line break in the corresponding places in the English translation as well.
 
 When a line ends with one or more words that don't have nikudot, that's an indication that we should be repeating a chorus from earlier in the poem. Omit the words that are lacking the nikudot, and instead find those words in the first verse. Copy from those words to the end of the verse (in both Hebre and English) and include those as a separate linear_translation block.
