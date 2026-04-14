@@ -1,0 +1,19 @@
+// Define the translation layout function
+#let linear_translation(heb_content, eng_content) = {
+  grid(
+    columns: (1fr, 1fr), // Two equal columns
+    column-gutter: 1cm,  // Space between columns
+    
+    // Left column: Hebrew (RTL)
+    {
+      set text(lang: "he", dir: rtl)
+      heb_content
+    },
+    
+    // Right column: English (LTR)
+    {
+      set text(dir: ltr)
+      eng_content
+    }
+  )
+}

@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [זְכוֹר יְהֹוָה לִיהוּדָה וְאֶפְרַיִם. \ 
 אֲשֶׁר שֻׁפַּךְ דָּמָם כַּמַּיִם.],

@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אַךְ זֶה הַיּוֹם יוֹם פְּקוּדַת חוֹבִי. \ 
 הֵלִילוּ לַיּוֹם נִשְׁמַע בְּכָל סְבִיבִי. \ 

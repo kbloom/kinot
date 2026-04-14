@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [גְּרוּשִׁים מִבֵּית תַּֽעֲנוּגֵיהֶם. \ 
 עָֽיְפָה נַפְשִׁי מוּל הֲרוּגֵיהֶם. \ 

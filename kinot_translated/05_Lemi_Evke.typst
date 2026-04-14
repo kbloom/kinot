@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [לְמִי אֶבְכֶּה וְכַף אַכֶּה וּבִבְכִי אֲמָרֵר וַהֲמוֹן מֵעַי אֲשַׁנֵּן:],
   [For whom shall I weep and strike my palm, and with weeping I shall embitter, and the turmoil of my innards I shall sharpen:]

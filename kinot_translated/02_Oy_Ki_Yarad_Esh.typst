@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אוֹי כִּי יָרַד אֵשׁ מִן הַשָּׁמַיִם. \ 
 לִירוּשָׁלַיִם. \ 

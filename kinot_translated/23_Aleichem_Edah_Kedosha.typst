@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אֲלֵיכֶם עֵדָה קְדוֹשָׁה. \ 
 אֶשְׁאַל מִכֶּם שְׁאֵלוֹת.],

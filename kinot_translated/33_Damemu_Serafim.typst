@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [דָּמְמוּ שְׂרָפִים מִזְּמָר. \ 
 וְחַיּוֹת וְאוֹפַנִּים מִמִּשְׁמָר. \ 

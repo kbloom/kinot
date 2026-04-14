@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [סִפְדִי וְהֵילִֽילִי תּוֹרַת יְקֽוּתִיאֵל, \
 וְחִגְרִי שַׂק וְחֶֽבֶל עַל גּוֹלַת אֲרִיאֵל, \

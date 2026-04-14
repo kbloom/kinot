@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אָז בַּחֲטָאֵינוּ חָרַב מִקְדָּשׁ. \ 
 וּבַעֲוֹנוֹתֵינוּ נִשְׂרַף הֵיכָל:],

@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [עַל הֵיכָלִי חֶבְלִי כְּנָחָשׁ נוֹשֵׁךְ. \ 
 וּלְשִׁמְמוּת צִיּוֹן אֵשֵׁב בַּחֹשֶׁךְ:],

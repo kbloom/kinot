@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אֵשׁ תּוּקַד בְּקִרְבִּי, בְּהַֽעֲלוֹתִי עַל לְבָבִי. \
 בְּצֵאתִי מִמִּצְרַֽיִם:],

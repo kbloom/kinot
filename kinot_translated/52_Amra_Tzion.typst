@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אָֽמְרָה צִיּוֹן מְצָאֽוּנִי עֲוֹנַי, \
 לְאֶֽרֶץ אַחֶֽרֶת יְצָאֽוּנִי בָנַי. \

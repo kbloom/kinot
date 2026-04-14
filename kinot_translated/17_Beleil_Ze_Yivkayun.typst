@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [בְּלֵיל זֶה יִבְכָּיוּן וְיֵלִילוּ בָנַי. \ 
 לֵיל חָרַב בֵּיתִי וְנִשְׂרְפוּ אַרְמוֹנַי. \ 

@@ -1,3 +1,5 @@
+#import "../utils.typst": linear_translation
+
 #linear_translation(
   [אֱלִי עֲדָתִי וְהֵילִילִי. \
 יוֹם בּוֹ נָפַל כְּלִילִי. \
