@@ -9,6 +9,7 @@ Output these as a code block.
 
 When including the original hebrew text, copy all of the nikudot and punctuation (including : and .). 
 There are a few places where I want you to add Typst line breaks. To do so, you will output a space, and a backslash, and then a line break. (Do not output a literal \n.)
-Insert a typst line break after each . Try to add a Typst line break in the corresponding places in the English translation as well.
+Insert a typst line break after each . or ,
+Try to add a Typst line break in the corresponding places in the English translation as well.
 
 When a line ends with one or more words that don't have nikudot, that's an indication that we should be repeating a chorus from earlier in the poem. Omit the words that are lacking the nikudot, and instead find those words in the first verse. Copy from those words to the end of the verse (in both Hebre and English) and include those as a separate linear_translation block.
