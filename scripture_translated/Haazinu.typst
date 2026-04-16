@@ -73,11 +73,19 @@ He made you and gave you a base.
 ])
 
 #linear_translation([
-זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דֹּר־וָדֹ֑ר \ 
-שְׁאַ֤ל אָבִ֨יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃
+זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם \
+בִּ֖ינוּ שְׁנ֣וֹת דֹּר־וָדֹ֑ר
 ], [
-Remember world history, study the generational epochs. \ 
-Ask your father and he will relate to you, your elders and they will tell you.
+Remember world history, \
+study the generational epochs.
+])
+
+#linear_translation([
+שְׁאַ֤ל אָבִ֨יךָ֙ וְיַגֵּ֔דְךָ \
+זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃
+], [
+Ask your father and he will relate to you, \
+your elders and they will tell you.
 ])
 
 #linear_translation([
@@ -121,11 +129,19 @@ He sheltered them like the pupil of His eye.
 ])
 
 #linear_translation([
-כְּנֶ֨שֶׁר֙ יָעִ֣יר קִנּ֔וֹ עַל־גּֽוֹזָלָ֖יו יְרַחֵ֑ף \ 
-יִפְרֹ֤שׂ כְּנָפָיו֙ יִקָּחֵ֔הוּ יִשָּׂאֵ֖הוּ עַל־אֶבְרָתֽוֹ׃
+כְּנֶ֨שֶׁר֙ יָעִ֣יר קִנּ֔וֹ \
+עַל־גּֽוֹזָלָ֖יו יְרַחֵ֑ף 
 ], [
-Like an eagle who rouses his nest, fluttering over his young, \ 
-He extends His wings, grasps them, He bears them on His wing.
+Like an eagle who rouses his nest, \
+fluttering over his young, 
+])
+
+#linear_translation([
+יִפְרֹ֤שׂ כְּנָפָיו֙ יִקָּחֵ֔הוּ \
+יִשָּׂאֵ֖הוּ עַל־אֶבְרָתֽוֹ׃
+], [
+He extends His wings, grasps them, \
+He bears them on His wing.
 ])
 
 #linear_translation([
@@ -298,17 +314,25 @@ and the teeth of animals will I send against them
 
 #linear_translation([
 עִם־חֲמַ֖ת זֹֽחֲלֵ֥י עָפָֽר׃ \ 
-מִחוּץ֙ תְּשַׁכֶּל־חֶ֔רֶב וּמֵֽחֲדָרִ֖ים אֵימָ֑ה גַּם־בָּחוּר֙
+מִחוּץ֙ תְּשַׁכֶּל־חֶ֔רֶב \
 ], [
 along with the venom of dust-crawlers. \ 
-From without, the sword shall decimate, and from within chambers, terror;
+From without, the sword shall decimate,
 ])
 
 #linear_translation([
-גַּם־בְּתוּלָ֔ה יוֹנֵ֖ק עִם־אִ֥ישׁ שֵׂיבָֽה׃ \ 
+וּמֵֽחֲדָרִ֖ים אֵימָ֑ה גַּם־בָּחוּר֙ \
+גַּם־בְּתוּלָ֔ה יוֹנֵ֖ק
+], [
+and from within chambers, terror; \
+both lad and lass, suckling
+])
+
+#linear_translation([
+עִם־אִ֥ישׁ שֵׂיבָֽה׃ \ 
 אָמַ֖רְתִּי אַפְאֵיהֶ֑ם
 ], [
-both lad and lass, suckling and aged man. \ 
+and aged man. \ 
 I thought, ‘I shall abandon them,’,
 ])
 
