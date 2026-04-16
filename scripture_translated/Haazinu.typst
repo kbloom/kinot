@@ -1,0 +1,538 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation([
+הַֽאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַֽאֲדַבֵּ֑רָה \ 
+וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי־פִֽי׃
+], [
+Hearken, O heaven as I declare, \ 
+let the earth hear my mouth’s sayings.
+])
+
+#linear_translation([
+יַֽעֲרֹ֤ף כַּמָּטָר֙ לִקְחִ֔י \ 
+תִּזַּ֥ל כַּטַּ֖ל אִמְרָתִ֑י
+], [
+Let my instruction flow like rainfall, \ 
+let my saying drip like dew;
+])
+
+#linear_translation([
+כִּשְׂעִירִ֣ם עֲלֵי־דֶ֔שֶׁא \ 
+וְכִרְבִיבִ֖ים עֲלֵי־עֵֽשֶׂב׃
+], [
+like storm winds on verdure, \ 
+and like raindrops on grass.
+])
+
+#linear_translation([
+כִּ֛י שֵׁ֥ם יְהוָ֖ה אֶקְרָ֑א \ 
+הָב֥וּ גֹ֖דֶל לֵֽאלֹהֵֽינוּ׃
+], [
+When I pronounce the name of Adonoy, \ 
+give greatness to our God,
+])
+
+#linear_translation([
+הַצּוּר֙ תָּמִ֣ים פָּֽעֳל֔וֹ \ 
+כִּ֥י כָל־דְּרָכָ֖יו מִשְׁפָּ֑ט
+], [
+The Almighty’s works are flawless, \ 
+for all His ways are just;
+])
+
+#linear_translation([
+אֵ֤ל אֱמוּנָה֙ וְאֵ֣ין עָ֔וֶל \ 
+צַדִּ֥יק וְיָשָׁ֖ר הֽוּא׃
+], [
+A God of faithfulness without injustice; \ 
+righteous and upright is He.
+])
+
+#linear_translation([
+שִׁחֵ֥ת ל֛וֹ לֹ֖א בָּנָ֣יו מוּמָ֑ם \ 
+דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃
+], [
+Destructiveness does not affect Him, it is the defect of His children; \ 
+a generation warped and twisted.
+])
+
+#linear_translation([
+הַ לְיְהוָה֙ תִּגְמְלוּ־זֹ֔את \ 
+עַ֥ם נָבָ֖ל וְלֹ֣א חָכָ֑ם
+], [
+Is it with Adonoy that you deal this way? \ 
+base people lacking wisdom.
+])
+
+#linear_translation([
+הֲלוֹא־הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ \ 
+ה֥וּא עָֽשְׂךָ֖ וַֽיְכֹנְנֶֽךָ׃
+], [
+Is He not your Father, who made you His? \ 
+He made you and gave you a base.
+])
+
+#linear_translation([
+זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דֹּר־וָדֹ֑ר \ 
+שְׁאַ֤ל אָבִ֨יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃
+], [
+Remember world history, study the generational epochs. \ 
+Ask your father and he will relate to you, your elders and they will tell you.
+])
+
+#linear_translation([
+בְּהַנְחֵ֤ל עֶלְיוֹן֙ גּוֹיִ֔ם \ 
+בְּהַפְרִיד֖וֹ בְּנֵ֣י אָדָ֑ם
+], [
+When the Exalted One bequeathed nations, \ 
+when He set apart the sons
+])
+
+#linear_translation([
+יַצֵּב֙ גְּבֻלֹ֣ת עַמִּ֔ים \ 
+לְמִסְפַּ֖ר בְּנֵ֥י יִשְׂרָאֵֽל׃
+], [
+of man; He established the boundaries \ 
+of peoples according to the number of Bnei Yisroel.
+])
+
+#linear_translation([
+כִּ֛י חֵ֥לֶק יְהוָ֖ה עַמּ֑וֹ \ 
+יַֽעֲקֹ֖ב חֶ֥בֶל נַֽחֲלָתֽוֹ׃
+], [
+Because \[of\] Adonoy’s portion, His people, \ 
+Yaakov the cable of His heritage.
+])
+
+#linear_translation([
+יִמְצָאֵ֨הוּ֙ בְּאֶ֣רֶץ מִדְבָּ֔ר \ 
+וּבְתֹ֖הוּ יְלֵ֣ל יְשִׁמֹ֑ן
+], [
+He found them in a wilderness country, in arid, \ 
+shrieking desolation. He encircled them around,
+])
+
+#linear_translation([
+יְסֹֽבְבֶ֨נְהוּ֙ יְב֣וֹנְנֵ֔הוּ \ 
+יִצְּרֶ֖נְהוּ כְּאִישׁ֥וֹן עֵינֽוֹ׃
+], [
+He granted them understanding, \ 
+He sheltered them like the pupil of His eye.
+])
+
+#linear_translation([
+כְּנֶ֨שֶׁר֙ יָעִ֣יר קִנּ֔וֹ עַל־גּֽוֹזָלָ֖יו יְרַחֵ֑ף \ 
+יִפְרֹ֤שׂ כְּנָפָיו֙ יִקָּחֵ֔הוּ יִשָּׂאֵ֖הוּ עַל־אֶבְרָתֽוֹ׃
+], [
+Like an eagle who rouses his nest, fluttering over his young, \ 
+He extends His wings, grasps them, He bears them on His wing.
+])
+
+#linear_translation([
+יְהוָ֖ה בָּדָ֣ד יַנְחֶ֑נּוּ \ 
+וְאֵ֥ין עִמּ֖וֹ אֵ֥ל נֵכָֽר׃
+], [
+Adonoy conducted them alone, \ 
+without \[opposition by\] alien gods.
+])
+
+#linear_translation([
+יַרְכִּבֵ֨הוּ֙ עַל־במותי בָּ֣מֳתֵי אָ֔רֶץ \ 
+וַיֹּאכַ֖ל תְּנוּבֹ֣ת שָׂדָ֑י
+], [
+He shall transport them over the summit of the earth \ 
+where they will consume the produce of
+])
+
+#linear_translation([
+וַיֵּֽנִקֵ֤הֽוּ דְבַשׁ֙ מִסֶּ֔לַע \ 
+וְשֶׁ֖מֶן מֵֽחַלְמִ֥ישׁ צֽוּר׃
+], [
+the fields; and He shall nurture them with \ 
+honey of bedrock and oil of staunchest rock mass.
+])
+
+#linear_translation([
+חֶמְאַ֨ת בָּקָ֜ר וַֽחֲלֵ֣ב צֹ֗אן \ 
+עִם־חֵ֨לֶב כָּרִ֜ים וְאֵילִ֤ים
+], [
+Butter-fat of cattle and milk of sheep \ 
+with the fat of lambs, and
+])
+
+#linear_translation([
+בְּנֵֽי־בָשָׁן֙ וְעַתּוּדִ֔ים \ 
+עִם־חֵ֖לֶב כִּלְי֣וֹת חִטָּ֑ה
+], [
+rams native to Bashan and goats, \ 
+with the fat of wheat kidneys,
+])
+
+#linear_translation([
+וְדַם־עֵנָ֖ב תִּשְׁתֶּה־חָֽמֶר׃ \ 
+וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט
+], [
+and the wine-flavored blood of the grapes will you drink. \ 
+Yeshurun grew fat and rebelled, you grew fat,
+])
+
+#linear_translation([
+שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ \ 
+וַיִּטֹּשׁ֙ אֱל֣וֹהַּ עָשָׂ֔הוּ
+], [
+you have become thick, and are covered with fat; \ 
+he forsook the God who made him,
+])
+
+#linear_translation([
+וַיְנַבֵּ֖ל צ֥וּר יְשֻֽׁעָתֽוֹ׃ \ 
+יַקְנִאֻ֖הוּ בְּזָרִ֑ים
+], [
+he insulted the Rock of his salvation. \ 
+They incited His vengeance with strangers,
+])
+
+#linear_translation([
+בְּתֽוֹעֵבֹ֖ת יַכְעִיסֻֽהוּ׃ \ 
+יִזְבְּח֗וּ לַשֵּׁדִים֙ לֹ֣א אֱלֹ֔הַּ
+], [
+with loathsomeness did they spite Him. \ 
+They slaughtered to ineffectual demons,
+])
+
+#linear_translation([
+אֱלֹהִ֖ים לֹ֣א יְדָע֑וּם \ 
+חֲדָשִׁים֙ מִקָּרֹ֣ב בָּ֔אוּ
+], [
+gods they did not know; \ 
+novelties,
+])
+
+#linear_translation([
+לֹ֥א שְׂעָר֖וּם אֲבֹֽתֵיכֶֽם׃ \ 
+צ֥וּר יְלָֽדְךָ֖ תֶּ֑שִׁי
+], [
+lately arrived—your forefathers were not awed by them. \ 
+the Rock Who bore you, you disregarded;
+])
+
+#linear_translation([
+וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹֽלְלֶֽךָ׃ \ 
+וַיַּ֥רְא יְהוָ֖ה וַיִּנְאָ֑ץ
+], [
+you forsook the Almighty Who delivered you. \ 
+Adonoy saw and was angered,
+])
+
+#linear_translation([
+מִכַּ֥עַס בָּנָ֖יו וּבְנֹתָֽיו׃ \ 
+וַיֹּ֗אמֶר אַסְתִּ֤ירָה פָנַי֙ מֵהֶ֔ם
+], [
+by the spite of His sons and His daughters. \ 
+He said, ‘‘I will hide My face from them,
+])
+
+#linear_translation([
+אֶרְאֶ֖ה מָ֣ה אַֽחֲרִיתָ֑ם \ 
+כִּ֣י ד֤וֹר תַּהְפֻּכֹת֙ הֵ֔מָּה
+], [
+I will see what their end will be; \ 
+for they are an upsetting generation,
+])
+
+#linear_translation([
+בָּנִ֖ים לֹֽא־אֵמֻ֥ן בָּֽם׃ \ 
+הֵ֚ם קִנְא֣וּנִי בְלֹא־אֵ֔ל
+], [
+sons who are devoid of breeding. \ 
+They have incited Me to vengeance
+])
+
+#linear_translation([
+כִּֽעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם \ 
+וַֽאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא־עָ֔ם
+], [
+with a non-god—have spited Me with their \ 
+idols; and I will incite them with a
+])
+
+#linear_translation([
+בְּג֥וֹי נָבָ֖ל אַכְעִיסֵֽם׃ \ 
+כִּי־אֵשׁ֙ קָֽדְחָ֣ה בְאַפִּ֔י
+], [
+non-people, I shall anger them with a faithless nation. \ 
+For a fire shall blaze in My anger,
+])
+
+#linear_translation([
+וַתִּיקַ֖ד עַד־שְׁא֣וֹל תַּחְתִּ֑ית \ 
+וַתֹּ֤אכַל אֶ֨רֶץ֙ וִֽיבֻלָ֔הּ
+], [
+that will burn till the lowest grave; \ 
+it shall consume the land and its produce,
+])
+
+#linear_translation([
+וַתְּלַהֵ֖ט מֽוֹסְדֵ֥י הָרִֽים׃ \ 
+אַסְפֶּ֥ה עָלֵ֖ימוֹ רָע֑וֹת
+], [
+and enflame the bases of mountains. \ 
+I shall amass iniquity against them,
+])
+
+#linear_translation([
+חִצַּ֖י אֲכַלֶּה־בָּֽם׃ \ 
+מְזֵ֥י רָעָ֛ב וּלְחֻ֥מֵי רֶ֖שֶׁף
+], [
+I shall deplete my arrows against them. \ 
+Bloated with hunger, and embattled with demons
+])
+
+#linear_translation([
+וְקֶ֣טֶב מְרִירִ֑י \ 
+וְשֶׁן־בְּהֵמֹת֙ אֲשַׁלַּח־בָּ֔ם
+], [
+and slashed by Meriri; \ 
+and the teeth of animals will I
+])
+
+#linear_translation([
+עִם־חֲמַ֖ת זֹֽחֲלֵ֥י עָפָֽר׃ \ 
+מִחוּץ֙ תְּשַׁכֶּל־חֶ֔רֶב וּמֵֽחֲדָרִ֖ים אֵימָ֑ה גַּם־בָּחוּר֙
+], [
+send against them along with the venom of dust-crawlers. \ 
+From without, the sword shall decimate, and from within chambers,
+])
+
+#linear_translation([
+גַּם־בְּתוּלָ֔ה יוֹנֵ֖ק עִם־אִ֥ישׁ שֵׂיבָֽה׃ \ 
+אָמַ֖רְתִּי אַפְאֵיהֶ֑ם
+], [
+terror; both lad and lass, suckling and aged man. \ 
+I thought, ‘I shall abandon them,’,
+])
+
+#linear_translation([
+אַשְׁבִּ֥יתָה מֵֽאֱנ֖וֹשׁ זִכְרָֽם׃ \ 
+לוּלֵ֗י כַּ֤עַס אוֹיֵב֙ אָג֔וּר
+], [
+I would eliminate from mankind mention of them. \ 
+Were it not for the enemy’s amassed rage,
+])
+
+#linear_translation([
+פֶּֽן־יְנַכְּר֖וּ צָרֵ֑ימוֹ \ 
+פֶּן־יֹֽאמְרוּ֙ יָדֵ֣נוּ רָ֔מָה
+], [
+lest their oppressors estrange; \ 
+lest they say, ‘Our armed might has prevailed,
+])
+
+#linear_translation([
+וְלֹ֥א יְהוָ֖ה פָּעַ֥ל כָּל־זֹֽאת׃ \ 
+כִּי־ג֛וֹי אֹבַ֥ד עֵצ֖וֹת הֵ֑מָּה
+], [
+and not Adonoy has performed all this.’ \ 
+For those nations squander counsel,
+])
+
+#linear_translation([
+וְאֵ֥ין בָּהֶ֖ם תְּבוּנָֽה׃ \ 
+ל֥וּ חָֽכְמ֖וּ יַשְׂכִּ֣ילוּ זֹ֑את
+], [
+they lack intelligence. \ 
+Were they wise they would grasp this,
+])
+
+#linear_translation([
+יָבִ֖ינוּ לְאַֽחֲרִיתָֽם׃ \ 
+אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף
+], [
+they would contemplate their ending. \ 
+How can one pursue a thousand,
+])
+
+#linear_translation([
+וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה \ 
+אִם־לֹא֙ כִּֽי־צוּרָ֣ם מְכָרָ֔ם
+], [
+and two make ten thousand flee? \ 
+Unless their Almighty \[lit. rock\] has dealt them away,
+])
+
+#linear_translation([
+וַֽיהוָ֖ה הִסְגִּירָֽם׃ \ 
+כִּ֛י לֹ֥א כְצוּרֵ֖נוּ צוּרָ֑ם
+], [
+and Adonoy has delivered them? \ 
+For their mighty one is not like our Almighty,
+])
+
+#linear_translation([
+וְאֹֽיְבֵ֖ינוּ פְּלִילִֽים׃ \ 
+כִּֽי־מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם
+], [
+yet our enemies sit in judgement. \ 
+For their grapevine is of the grapevine
+])
+
+#linear_translation([
+וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה \ 
+עֲנָבֵ֨מוֹ֙ עִנְּבֵי־ר֔וֹשׁ
+], [
+of Sedom and from the \ 
+fields of Amorah; their grapes are
+])
+
+#linear_translation([
+אַשְׁכְּלֹ֥ת מְרֹרֹ֖ת לָֽמוֹ׃ \ 
+חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם
+], [
+grapes of bitter herbs. clusters galling to them. \ 
+Like caustic serpents’ venom is their wine,
+])
+
+#linear_translation([
+וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר׃ \ 
+הֲלֹא־ה֖וּא כָּמֻ֣ס עִמָּדִ֑י
+], [
+and \[like\] the gall of adders, cruel. \ 
+Is this not sequestered with Me,
+])
+
+#linear_translation([
+חָת֖וּם בְּאֽוֹצְרֹתָֽי׃ \ 
+לִ֤י נָקָם֙ וְשִׁלֵּ֔ם
+], [
+sealed in My treasuries. \ 
+Vengeance is with Me, and I
+])
+
+#linear_translation([
+לְעֵ֖ת תָּמ֣וּט רַגְלָ֑ם \ 
+כִּ֤י קָרוֹב֙ י֣וֹם אֵידָ֔ם
+], [
+shall administer retribution at the time that \ 
+they shall stumble for the day of their
+])
+
+#linear_translation([
+וְחָ֖שׁ עֲתִדֹ֥ת לָֽמוֹ׃ \ 
+כִּֽי־יָדִ֤ין יְהוָה֙ עַמּ֔וֹ
+], [
+calamity is close by, and destiny speeds towards them. \ 
+When Adonoy administers justice against His
+])
+
+#linear_translation([
+וְעַל־עֲבָדָ֖יו יִתְנֶחָ֑ם \ 
+כִּ֤י יִרְאֶה֙ כִּֽי־אָ֣זְלַת יָ֔ד
+], [
+people and He will reconsider \ 
+about His servants; when He sees the
+])
+
+#linear_translation([
+וְאֶ֖פֶס עָצ֥וּר וְעָזֽוּב׃ \ 
+וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ
+], [
+power surging, and none are structured or fortified. \ 
+He shall say,
+])
+
+#linear_translation([
+צ֖וּר חָסָ֥יוּ בֽוֹ׃ \ 
+אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ
+], [
+‘‘Where is their god the rock on which they relied for shelter? \
+They ate the fat of their sacrifices,
+])
+
+#linear_translation([
+יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם \ 
+יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם
+], [
+they drank the wine of their libation? \ 
+Let them arise and help you,
+])
+
+#linear_translation([
+יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה׃ \ 
+רְא֣וּ ׀ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא
+], [
+let them serve as your shield. \ 
+Now observe! For it is I!
+])
+
+#linear_translation([
+וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י \ 
+אֲנִ֧י אָמִ֣ית וַֽאֲחַיֶּ֗ה
+], [
+I am the One! \ 
+and no god matches Me;
+])
+
+#linear_translation([
+מָחַ֨צְתִּי֙ וַֽאֲנִ֣י אֶרְפָּ֔א \ 
+וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל׃
+], [
+I put to death and make live, \ 
+I smite and I heal and no one can rescue from My grasp.
+])
+
+#linear_translation([
+כִּֽי־אֶשָּׂ֥א אֶל־שָׁמַ֖יִם יָדִ֑י \ 
+וְאָמַ֕רְתִּי חַ֥י אָֽנֹכִ֖י לְעֹלָֽם׃
+], [
+For I shall lift My hand heavenward, \ 
+and I shall say, ‘I live forever.’
+])
+
+#linear_translation([
+אִם־שַׁנּוֹתִי֙ בְּרַ֣ק חַרְבִּ֔י \ 
+וְתֹאחֵ֥ז בְּמִשְׁפָּ֖ט יָדִ֑י
+], [
+If I whet My saber to a \ 
+gleam, and hold judgement in My grasp.
+])
+
+#linear_translation([
+אָשִׁ֤יב נָקָם֙ לְצָרָ֔י \ 
+וְלִמְשַׂנְאַ֖י אֲשַׁלֵּֽם׃
+], [
+I shall wreak vengeance on \ 
+My foes and My spiters will I pay.
+])
+
+#linear_translation([
+אַשְׁכִּ֤יר חִצַּי֙ מִדָּ֔ם \ 
+וְחַרְבִּ֖י תֹּאכַ֣ל בָּשָׂ֑ר
+], [
+I shall make My arrows drunk with \ 
+blood and My saber shall consume flesh;
+])
+
+#linear_translation([
+מִדַּ֤ם חָלָל֙ וְשִׁבְיָ֔ה \ 
+מֵרֹ֖אשׁ פַּרְע֥וֹת אוֹיֵֽב׃
+], [
+for the blood of the slaughtered and \ 
+the captives, for the original savagery of the enemy.’’
+])
+
+#linear_translation([
+הַרְנִ֤ינוּ גוֹיִם֙ עַמּ֔וֹ \ 
+כִּ֥י דַם־עֲבָדָ֖יו יִקּ֑וֹם
+], [
+Let the nations extol His people \ 
+for He shall avenge the blood
+])
+
+#linear_translation([
+וְנָקָם֙ יָשִׁ֣יב לְצָרָ֔יו \ 
+וְכִפֶּ֥ר אַדְמָת֖וֹ עַמּֽוֹ׃
+], [
+of His servants and wreak vengeance \ 
+on His enemies and reconcile His land, His people.
+])
+
