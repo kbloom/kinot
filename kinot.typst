@@ -3,6 +3,7 @@
   paper: "a4",
   margin: (x: 2cm, y: 2cm),
 )
+#let hrule = align(center, line(length: 60%, stroke: 2pt))
 
 // Set the base font (English font)
 // #set text(font: "Linux Libertine", size: 11pt)
@@ -10,53 +11,118 @@
 // --- DOCUMENT CONTENT ---
 
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
+#hrule
 #include "kinot_translated/02_Oy_Ki_Yarad_Esh.typst"
+#hrule
 #include "kinot_translated/05_Lemi_Evke.typst"
+#hrule
+
+== Chapter 1
+#include "scripture_translated/Eichah_1.typst"
+== Chapter 2
+#include "scripture_translated/Eichah_2.typst"
+== Chapter 3
+#include "scripture_translated/Eichah_3.typst"
+== Chapter 4
+#include "scripture_translated/Eichah_4.typst"
+== Chapter 5
+#include "scripture_translated/Eichah_5.typst"
+
+
+
+#hrule
 #include "kinot_translated/11_Az_Bachatainu.typst"
+#hrule
 #include "kinot_translated/12_Taleh_Rishon.typst"
+#hrule
 #include "kinot_translated/13_Shmu_Na_Acheinu.typst"
+#hrule
 #include "kinot_translated/15_Kaddish_dHu_Atid.typst"
+#hrule
 #include "kinot_translated/16_Zechor_Hashem.typst"
+#hrule
 #include "kinot_translated/17_Beleil_Ze_Yivkayun.typst"
+#hrule
 #include "kinot_translated/18_Midei_Shana_Kina.typst"
+#hrule
 #include "kinot_translated/19_Al_Ze_Haya_Daveh_Libenu.typst"
+#hrule
 #include "kinot_translated/20_Al_Leil_Churban.typst"
+#hrule
 #include "kinot_translated/21_Oy_Ki_Yarad_Esh.typst"
+#hrule
 #include "kinot_translated/22_Zechor_Hashem.typst"
+#hrule
 #include "kinot_translated/23_Aleichem_Edah_Kedosha.typst"
+#hrule
 #include "kinot_translated/24_Oy_Ki_Kinah_Rabat.typst"
+#hrule
 #include "kinot_translated/25_Ani_HaGever_Akonen.typst"
+#hrule
 #include "kinot_translated/26_Ad_Ana_Bichya_BeTzion.typst"
+#hrule
 #include "kinot_translated/29_Al_Heichali_Chevli.typst"
+#hrule
 #include "kinot_translated/31_Shechina_Tzoeket.typst"
+#hrule
 #include "kinot_translated/32_Bat_Tzion_Shamati.typst"
+#hrule
 #include "kinot_translated/33_Damemu_Serafim.typst"
+#hrule
 #include "kinot_translated/34_BaChodesh_HaChamisis.typst"
+#hrule
 #include "kinot_translated/35_Ach_Ze_HaYom.typst"
+#hrule
 #include "kinot_translated/36_Mizmor_LeAsaph.typst"
+#hrule
 #include "kinot_translated/37_Ad_Matai_Hashem.typst"
+#hrule
 #include "kinot_translated/38_Eicha_Tzon_HaHareigah.typst"
+#hrule
 #include "kinot_translated/39_Sei_Kina.typst"
+#hrule
 #include "kinot_translated/40_Gerushim_MiBeit.typst"
+#hrule
 #include "kinot_translated/41_Aich_Neve_Shudad.typst"
+#hrule
 #include "kinot_translated/42_Aleichem_Edah_Neemana.typst"
+#hrule
 #include "kinot_translated/43_Esh_Tukad_BeKirbi.typst"
+#hrule
 #include "kinot_translated/44_Eli_Adati.typst"
+#hrule
 #include "kinot_translated/45_Bat_Ammi_Teheilil.typst"
+#hrule
 #include "kinot_translated/46_Eich_Navi_Chatati.typst"
+#hrule
 #include "kinot_translated/47_Yehuda_VeYisrael.typst"
+#hrule
 #include "kinot_translated/48_Eini_Eini_Yorda_Mayim.typst"
+#hrule
 #include "kinot_translated/49_Haragta_BeYom_Apecha.typst"
+#hrule
 #include "kinot_translated/50_Shomron_Kol_Titen.typst"
+#hrule
 #include "kinot_translated/51_Eleh_Ezkera.typst"
+#hrule
 #include "kinot_translated/52_Amra_Tzion.typst"
+#hrule
 #include "kinot_translated/53_LiShechina_Alta.typst"
+#hrule
 #include "kinot_translated/54_Allai_Li_Allai.typst"
+#hrule
 #include "kinot_translated/55_HaNoten_BaYam_Derech.typst"
+#hrule
 #include "kinot_translated/56_Ad_Ana_Bichya_BeTzion.typst"
+#hrule
 #include "kinot_translated/58_Al_Heichali.typst"
+#hrule
 #include "kinot_translated/59_Sifdi_VeHeilili.typst"
+#hrule
 #include "kinot_translated/60_Kumi_VeSifdi_Tora.typst"
+#hrule
 #include "kinot_translated/61_Bimkom_Ashrei_HaAm.typst"
+#hrule
 #include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"
+#hrule
 #include "kinot_translated/71_Comfort_Verses.typst"
