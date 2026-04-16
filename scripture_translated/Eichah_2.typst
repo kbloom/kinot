@@ -1,0 +1,46 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation([אֵיכָה֩ יָעִ֨יב בְּאַפּ֤וֹ ׀ אֲדֹנָי֙ אֶת־בַּת־צִיּ֔וֹן הִשְׁלִ֤יךְ מִשָּׁמַ֙יִם֙ אֶ֔רֶץ תִּפְאֶ֖רֶת יִשְׂרָאֵ֑ל וְלֹא־זָכַ֥ר הֲדֹם־רַגְלָ֖יו בְּי֥וֹם אַפּֽוֹ׃], [How can it be that God, in his wrath, has cast a gloom upon the city of Tzion, that He flung from heaven to earth the glory of Israel, and did not remember His footstool on the day of His wrath?])
+
+#linear_translation([בִּלַּ֨ע אֲדֹנָ֜י וְלֹ֣א חָמַ֗ל אֵ֚ת כׇּל־נְא֣וֹת יַעֲקֹ֔ב הָרַ֧ס בְּעֶבְרָת֛וֹ מִבְצְרֵ֥י בַת־יְהוּדָ֖ה הִגִּ֣יעַ לָאָ֑רֶץ חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ׃], [God swallowed up mercilessly every residence of Ya’akov. He smashed, in His fury, the fortifications of the province of Yehudah, razing them to the ground. He desecrated the kingdom and its princes.])
+
+#linear_translation([גָּדַ֣ע בׇּֽחֳרִי־אַ֗ף כֹּ֚ל קֶ֣רֶן יִשְׂרָאֵ֔ל הֵשִׁ֥יב אָח֛וֹר יְמִינ֖וֹ מִפְּנֵ֣י אוֹיֵ֑ב וַיִּבְעַ֤ר בְּיַעֲקֹב֙ כְּאֵ֣שׁ לֶֽהָבָ֔ה אָכְלָ֖ה סָבִֽיב׃], [He tore down, in his wrath, all the power \[lit. horn\] of Israel. He withheld His right arm in the face of the enemy. He ignited Ya’akov like a blazing flame which consumes on every side.])
+
+#linear_translation([דָּרַ֨ךְ קַשְׁתּ֜וֹ כְּאוֹיֵ֗ב נִצָּ֤ב יְמִינוֹ֙ כְּצָ֔ר וַֽיַּהֲרֹ֔ג כֹּ֖ל מַחֲמַדֵּי־עָ֑יִן בְּאֹ֙הֶל֙ בַּת־צִיּ֔וֹן שָׁפַ֥ךְ כָּאֵ֖שׁ חֲמָתֽוֹ׃], [He arched His bow like an enemy, set His right arm like an oppressor, and slew everyone that was a delight to behold. In the tent of the city of Tzion He poured His fury like fire.])
+
+#linear_translation([הָיָ֨ה אֲדֹנָ֤י ׀ כְּאוֹיֵב֙ בִּלַּ֣ע יִשְׂרָאֵ֔ל בִּלַּע֙ כׇּל־אַרְמְנוֹתֶ֔יהָ שִׁחֵ֖ת מִבְצָרָ֑יו וַיֶּ֙רֶב֙ בְּבַת־יְהוּדָ֔ה תַּאֲנִיָּ֖ה וַאֲנִיָּֽה׃], [God was like an enemy—He swallowed up Israel, He swallowed up all her palaces, He destroyed its fortifications. He magnified, in the community of Yehudah, suffering and lamentation.])
+
+#linear_translation([וַיַּחְמֹ֤ס כַּגַּן֙ שֻׂכּ֔וֹ שִׁחֵ֖ת מֹעֲד֑וֹ שִׁכַּ֨ח יְהֹוָ֤ה ׀ בְּצִיּוֹן֙ מוֹעֵ֣ד וְשַׁבָּ֔ת וַיִּנְאַ֥ץ בְּזַֽעַם־אַפּ֖וֹ מֶ֥לֶךְ וְכֹהֵֽן׃], [He cut down His dwelling place like a garden, He destroyed His place of communion, Adonoy caused to be forgotten in Tzion the Festivals and Shabbos. He scorned, in the fury of His wrath, the king and the kohein.])
+
+#linear_translation([זָנַ֨ח אֲדֹנָ֤י ׀ מִזְבְּחוֹ֙ נִאֵ֣ר מִקְדָּשׁ֔וֹ הִסְגִּיר֙ בְּיַד־אוֹיֵ֔ב חוֹמֹ֖ת אַרְמְנוֹתֶ֑יהָ ק֛וֹל נָתְנ֥וּ בְּבֵית־יְהֹוָ֖ה כְּי֥וֹם מוֹעֵֽד׃], [God abandoned His altar, nullified His Sanctuary, delivered, into the enemy’s hand, the walls of its palaces. They sounded a shout, in the House of Adonoy, like that of a festival day.])
+
+#linear_translation([חָשַׁ֨ב יְהֹוָ֤ה ׀ לְהַשְׁחִית֙ חוֹמַ֣ת בַּת־צִיּ֔וֹן נָ֣טָה קָ֔ו לֹא־הֵשִׁ֥יב יָד֖וֹ מִבַּלֵּ֑עַ וַיַּֽאֲבֶל־חֵ֥ל וְחוֹמָ֖ה יַחְדָּ֥ו אֻמְלָֽלוּ׃], [Adonoy determined to destroy the wall of the city of Tzion. He set the course \[of judgement\], and did not withdraw His hand from destroying. He caused the fence and the wall to mourn they were joined in misery.])
+
+#linear_translation([טָבְע֤וּ בָאָ֙רֶץ֙ שְׁעָרֶ֔יהָ אִבַּ֥ד וְשִׁבַּ֖ר בְּרִיחֶ֑יהָ מַלְכָּ֨הּ וְשָׂרֶ֤יהָ בַגּוֹיִם֙ אֵ֣ין תּוֹרָ֔ה גַּם־נְבִיאֶ֕יהָ לֹא־מָצְא֥וּ חָז֖וֹן מֵיְהֹוָֽה׃], [Her gates sank into the ground, He demolished and shattered her bolts. Her king and nobles are among the Gentiles, without guidance. Her prophets, also, have not found vision from Adonoy.])
+
+#linear_translation([יֵשְׁב֨וּ לָאָ֤רֶץ יִדְּמוּ֙ זִקְנֵ֣י בַת־צִיּ֔וֹן הֶֽעֱל֤וּ עָפָר֙ עַל־רֹאשָׁ֔ם חָגְר֖וּ שַׂקִּ֑ים הוֹרִ֤ידוּ לָאָ֙רֶץ֙ רֹאשָׁ֔ן בְּתוּלֹ֖ת יְרוּשָׁלָֽ͏ִם׃], [They sit silently on the ground, the elders of the city of Tzion, they lift the dust to their heads, gird themselves with sackcloth. they lower their heads to the ground, the maidens of Jerusalem.])
+
+#linear_translation([כָּל֨וּ בַדְּמָע֤וֹת עֵינַי֙ חֳמַרְמְר֣וּ מֵעַ֔י נִשְׁפַּ֤ךְ לָאָ֙רֶץ֙ כְּבֵדִ֔י עַל־שֶׁ֖בֶר בַּת־עַמִּ֑י בֵּֽעָטֵ֤ף עוֹלֵל֙ וְיוֹנֵ֔ק בִּרְחֹב֖וֹת קִרְיָֽה׃], [My eyes are consumed with tears, my gut is shrivelled, my liver has spilled to the ground, over the disintegration of my people, when infants and nursing babies faint in the streets of the city.])
+
+#linear_translation([לְאִמֹּתָם֙ יֹֽאמְר֔וּ אַיֵּ֖ה דָּגָ֣ן וָיָ֑יִן בְּהִֽתְעַטְּפָ֤ם כֶּֽחָלָל֙ בִּרְחֹב֣וֹת עִ֔יר בְּהִשְׁתַּפֵּ֣ךְ נַפְשָׁ֔ם אֶל־חֵ֖יק אִמֹּתָֽם׃], [To their mothers they say, ‘Where’s grain \[bread\] and wine?’, as they lie, passed out like corpses, in the streets of the city, when their soul is poured out in their mothers’ laps.])
+
+#linear_translation([מָֽה־אֲעִידֵ֞ךְ מָ֣ה אֲדַמֶּה־לָּ֗ךְ הַבַּת֙ יְר֣וּשָׁלַ֔͏ִם מָ֤ה אַשְׁוֶה־לָּךְ֙ וַאֲנַֽחֲמֵ֔ךְ בְּתוּלַ֖ת בַּת־צִיּ֑וֹן כִּֽי־גָד֥וֹל כַּיָּ֛ם שִׁבְרֵ֖ךְ מִ֥י יִרְפָּא־לָֽךְ׃], [What testimony can I offer you, to what can I compare you, city of Jerusalem? to what can I liken you to console you, O maiden, city of Tzion? For your disintegration is as immense as the sea—who can heal you?])
+
+#linear_translation([נְבִיאַ֗יִךְ חָ֤זוּ לָךְ֙ שָׁ֣וְא וְתָפֵ֔ל וְלֹֽא־גִלּ֥וּ עַל־עֲוֺנֵ֖ךְ לְהָשִׁ֣יב שְׁבוּתֵ֑ךְ וַיֶּ֣חֱזוּ לָ֔ךְ מַשְׂא֥וֹת שָׁ֖וְא וּמַדּוּחִֽים׃], [Your prophets envisioned, for you, falsehood and stupidity, and did not expose your transgressions, to bring you back from your waywardness. They envisioned, for you, prophecies of falsehood and deception.])
+
+#linear_translation([סָֽפְק֨וּ עָלַ֤יִךְ כַּפַּ֙יִם֙ כׇּל־עֹ֣בְרֵי דֶ֔רֶךְ שָֽׁרְקוּ֙ וַיָּנִ֣עוּ רֹאשָׁ֔ם עַל־בַּ֖ת יְרוּשָׁלָ֑͏ִם הֲזֹ֣את הָעִ֗יר שֶׁיֹּֽאמְרוּ֙ כְּלִ֣ילַת יֹ֔פִי מָשׂ֖וֹשׂ לְכׇל־הָאָֽרֶץ׃], [They clap their hands over you—all those who travel along the way; they hiss and shake their heads over the city of Jerusalem. Is this the city of which it was said, “The perfection of beauty, delight of all the earth?”])
+
+#linear_translation([פָּצ֨וּ עָלַ֤יִךְ פִּיהֶם֙ כׇּל־אֹ֣יְבַ֔יִךְ שָֽׁרְקוּ֙ וַיַּֽחַרְקוּ־שֵׁ֔ן אָמְר֖וּ בִּלָּ֑עְנוּ אַ֣ךְ זֶ֥ה הַיּ֛וֹם שֶׁקִּוִּינֻ֖הוּ מָצָ֥אנוּ רָאִֽינוּ׃], [They opened their mouths wide concerning you—all your enemies—they whistled, gnashed their teeth, and exclaimed, “We swallowed them up? This is precisely the day we hoped for! We’ve experienced it! We’ve seen it!”])
+
+#linear_translation([עָשָׂ֨ה יְהֹוָ֜ה אֲשֶׁ֣ר זָמָ֗ם בִּצַּ֤ע אֶמְרָתוֹ֙ אֲשֶׁ֣ר צִוָּ֣ה מִֽימֵי־קֶ֔דֶם הָרַ֖ס וְלֹ֣א חָמָ֑ל וַיְשַׂמַּ֤ח עָלַ֙יִךְ֙ אוֹיֵ֔ב הֵרִ֖ים קֶ֥רֶן צָרָֽיִךְ׃], [God acted as planned. He fulfilled His word as decreed in the days of old—He destroyed without pity He gave joy to the enemy concerning you, and enhanced the power of your oppressors.])
+
+#linear_translation([צָעַ֥ק לִבָּ֖ם אֶל־אֲדֹנָ֑י חוֹמַ֣ת בַּת־צִ֠יּ֠וֹן הוֹרִ֨ידִי כַנַּ֤חַל דִּמְעָה֙ יוֹמָ֣ם וָלַ֔יְלָה אַֽל־תִּתְּנִ֤י פוּגַת֙ לָ֔ךְ אַל־תִּדֹּ֖ם בַּת־עֵינֵֽךְ׃], [Their hearts cried out to God. O Rampart of the city of Tzion, pour forth a river of tears day and night. Allow yourself no respite, nor the pupil of your eye silence.])
+
+#linear_translation([ק֣וּמִי ׀ רֹ֣נִּי בַלַּ֗יְלָה לְרֹאשׁ֙ אַשְׁמֻר֔וֹת שִׁפְכִ֤י כַמַּ֙יִם֙ לִבֵּ֔ךְ נֹ֖כַח פְּנֵ֣י אֲדֹנָ֑י שְׂאִ֧י אֵלָ֣יו כַּפַּ֗יִךְ עַל־נֶ֙פֶשׁ֙ עֽוֹלָלַ֔יִךְ הָעֲטוּפִ֥ים בְּרָעָ֖ב בְּרֹ֥אשׁ כׇּל־חוּצֽוֹת׃], [Rise, cry in the night, when the watches begin, pour your heart out, like water, before God. Lift up your hands to Him for the souls of your infants, faint from starvation at the head of every street.])
+
+#linear_translation([רְאֵ֤ה יְהֹוָה֙ וְֽהַבִּ֔יטָה לְמִ֖י עוֹלַ֣לְתָּ כֹּ֑ה אִם־תֹּאכַ֨לְנָה נָשִׁ֤ים פִּרְיָם֙ עֹלְלֵ֣י טִפֻּחִ֔ים אִם־יֵהָרֵ֛ג בְּמִקְדַּ֥שׁ אֲדֹנָ֖י כֹּהֵ֥ן וְנָבִֽיא׃], [Adonoy, look, notice upon whom you have visited this, when women devour their own offspring, infants who were lovingly attended. When in the Sanctuary of God, was murdered—a kohein and prophet.])
+
+#linear_translation([שָׁכְב֨וּ לָאָ֤רֶץ חוּצוֹת֙ נַ֣עַר וְזָקֵ֔ן בְּתוּלֹתַ֥י וּבַחוּרַ֖י נָפְל֣וּ בֶחָ֑רֶב הָרַ֙גְתָּ֙ בְּי֣וֹם אַפֶּ֔ךָ טָבַ֖חְתָּ לֹ֥א חָמָֽלְתָּ׃], [On the ground, in the streets they lie, young and old. My maidens and youths have fallen by the sword. You killed, on the day of Your wrath, you slaughtered mercilessly.])
+
+#linear_translation([תִּקְרָא֩ כְי֨וֹם מוֹעֵ֤ד מְגוּרַי֙ מִסָּבִ֔יב וְלֹ֥א הָיָ֛ה בְּי֥וֹם אַף־יְהֹוָ֖ה פָּלִ֣יט וְשָׂרִ֑יד אֲשֶׁר־טִפַּ֥חְתִּי וְרִבִּ֖יתִי אֹיְבִ֥י כִלָּֽם׃], [You summoned, as if to a festive day, my surrounding neighbors. There was no one, on the day of Adonoy’s wrath, who found refuge or survived. Those whom I attended lovingly and reared, my enemy has annihilated.])
+
