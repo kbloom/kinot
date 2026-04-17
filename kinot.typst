@@ -12,6 +12,8 @@
 
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
 #hrule
+#include "scripture_translated/Haazinu.typst"
+#hrule
 #include "kinot_translated/02_Oy_Ki_Yarad_Esh.typst"
 #hrule
 #include "kinot_translated/05_Lemi_Evke.typst"
