@@ -123,9 +123,11 @@
 #hrule
 #include "kinot_translated/60_Kumi_VeSifdi_Tora.typst"
 #hrule
+#include "kinot_translated/61_Bimkom_Ashrei_HaAm.typst"
+#hrule
 #include "scripture_translated/Ki_Tolid_Banim.typst"
 #hrule
-#include "kinot_translated/61_Bimkom_Ashrei_HaAm.typst"
+#include "scripture_translated/Vaychal_Moshe.typst"
 #hrule
 #include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"
 #hrule
