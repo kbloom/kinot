@@ -1,0 +1,45 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation([
+כִּֽי־תוֹלִ֤יד בָּנִים֙ וּבְנֵ֣י בָנִ֔ים וְנוֹשַׁנְתֶּ֖ם בָּאָ֑רֶץ וְהִשְׁחַתֶּ֗ם וַעֲשִׂ֤יתֶם פֶּ֙סֶל֙ תְּמ֣וּנַת כֹּ֔ל וַעֲשִׂיתֶ֥ם הָרַ֛ע בְּעֵינֵ֥י יְהֹוָה־אֱלֹהֶ֖יךָ לְהַכְעִיסֽוֹ׃
+הַעִידֹ֩תִי֩ בָכֶ֨ם הַיּ֜וֹם אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֗רֶץ כִּֽי־אָבֹ֣ד תֹּאבֵדוּן֮ מַהֵר֒ מֵעַ֣ל הָאָ֔רֶץ אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּ֑הּ לֹֽא־תַאֲרִיכֻ֤ן יָמִים֙ עָלֶ֔יהָ כִּ֥י הִשָּׁמֵ֖ד תִּשָּׁמֵדֽוּן׃
+וְהֵפִ֧יץ יְהֹוָ֛ה אֶתְכֶ֖ם בָּעַמִּ֑ים וְנִשְׁאַרְתֶּם֙ מְתֵ֣י מִסְפָּ֔ר בַּגּוֹיִ֕ם אֲשֶׁ֨ר יְנַהֵ֧ג יְהֹוָ֛ה אֶתְכֶ֖ם שָֽׁמָּה׃
+וַעֲבַדְתֶּם־שָׁ֣ם אֱלֹהִ֔ים מַעֲשֵׂ֖ה יְדֵ֣י אָדָ֑ם עֵ֣ץ וָאֶ֔בֶן אֲשֶׁ֤ר לֹֽא־יִרְאוּן֙ וְלֹ֣א יִשְׁמְע֔וּן וְלֹ֥א יֹֽאכְל֖וּן וְלֹ֥א יְרִיחֻֽן׃
+וּבִקַּשְׁתֶּ֥ם מִשָּׁ֛ם אֶת־יְהֹוָ֥ה אֱלֹהֶ֖יךָ וּמָצָ֑אתָ כִּ֣י תִדְרְשֶׁ֔נּוּ בְּכׇל־לְבָבְךָ֖ וּבְכׇל־נַפְשֶֽׁךָ׃
+],[
+When you have children and grandchildren, and have grown old in the land; and you will be corrupt and make a statue—an image of anything—and do what is evil in the eyes of Adonoy, your God, to anger Him.
+I bring as witness against you today heaven and earth, that you will be completely and swiftly removed from upon the land, that you are crossing the Yardein there to inherit; you will not live long upon it, but will be completely destroyed.
+Adonoy will disperse you among the peoples, and you will remain few in number among the nations that Adonoy leads you to.
+There you will serve man-made gods of wood and stone that do not see, do not hear, do not eat, and do not smell.
+You will seek from there Adonoy, your God, and you will find [Him], when you seek Him wholeheartedly and with your whole being.
+])
+
+#linear_translation([
+בַּצַּ֣ר לְךָ֔ וּמְצָא֕וּךָ כֹּ֖ל הַדְּבָרִ֣ים הָאֵ֑לֶּה בְּאַחֲרִית֙ הַיָּמִ֔ים וְשַׁבְתָּ֙ עַד־יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְשָׁמַעְתָּ֖ בְּקֹלֽוֹ׃
+כִּ֣י אֵ֤ל רַחוּם֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א יַרְפְּךָ֖ וְלֹ֣א יַשְׁחִיתֶ֑ךָ וְלֹ֤א יִשְׁכַּח֙ אֶת־בְּרִ֣ית אֲבֹתֶ֔יךָ אֲשֶׁ֥ר נִשְׁבַּ֖ע לָהֶֽם׃
+כִּ֣י שְׁאַל־נָא֩ לְיָמִ֨ים רִֽאשֹׁנִ֜ים אֲשֶׁר־הָי֣וּ לְפָנֶ֗יךָ לְמִן־הַיּוֹם֙ אֲשֶׁר֩ בָּרָ֨א אֱלֹהִ֤ים ׀ אָדָם֙ עַל־הָאָ֔רֶץ וּלְמִקְצֵ֥ה הַשָּׁמַ֖יִם וְעַד־קְצֵ֣ה הַשָּׁמָ֑יִם הֲנִֽהְיָ֗ה כַּדָּבָ֤ר הַגָּדוֹל֙ הַזֶּ֔ה א֖וֹ הֲנִשְׁמַ֥ע כָּמֹֽהוּ׃
+הֲשָׁ֣מַֽע עָם֩ ק֨וֹל אֱלֹהִ֜ים מְדַבֵּ֧ר מִתּוֹךְ־הָאֵ֛שׁ כַּאֲשֶׁר־שָׁמַ֥עְתָּ אַתָּ֖ה וַיֶּֽחִי׃
+א֣וֹ ׀ הֲנִסָּ֣ה אֱלֹהִ֗ים לָ֠ב֠וֹא לָקַ֨חַת ל֣וֹ גוֹי֮ מִקֶּ֣רֶב גּוֹי֒ בְּמַסֹּת֩ בְּאֹתֹ֨ת וּבְמוֹפְתִ֜ים וּבְמִלְחָמָ֗ה וּבְיָ֤ד חֲזָקָה֙ וּבִזְר֣וֹעַ נְטוּיָ֔ה וּבְמוֹרָאִ֖ים גְּדֹלִ֑ים כְּ֠כֹ֠ל אֲשֶׁר־עָשָׂ֨ה לָכֶ֜ם יְהֹוָ֧ה אֱלֹהֵיכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֶֽיךָ׃
+],[
+When you are in distress and all these things happen to you, at the end of time, you will return to Adonoy, your God, and will obey Him.
+For a merciful Almighty is Adonoy, your God; He will not forsake you nor destroy you; nor will He forget the covenant of your fathers that He swore to them.
+Inquire now about the early years that preceded you, from the day that God created Adam on earth and from one end of the heavens to the other end of the heavens: Did anything ever happen comparable to this great event, or did anyone ever hear of such a thing?
+Did any people [ever] hear God’s voice speaking from within the fire as you heard and survive?
+Or did any god ever miraculously come and take for himself a nation from within a nation through tests, with signs and with wonders, and through warfare, and with a strong hand and with an extended arm, and with great displays; entirely as Adonoy, your God, did for you in Egypt as you watched?
+])
+
+#linear_translation([
+אַתָּה֙ הׇרְאֵ֣תָ לָדַ֔עַת כִּ֥י יְהֹוָ֖ה ה֣וּא הָאֱלֹהִ֑ים אֵ֥ין ע֖וֹד מִלְּבַדּֽוֹ׃
+מִן־הַשָּׁמַ֛יִם הִשְׁמִֽיעֲךָ֥ אֶת־קֹל֖וֹ לְיַסְּרֶ֑ךָּ וְעַל־הָאָ֗רֶץ הֶרְאֲךָ֙ אֶת־אִשּׁ֣וֹ הַגְּדוֹלָ֔ה וּדְבָרָ֥יו שָׁמַ֖עְתָּ מִתּ֥וֹךְ הָאֵֽשׁ׃
+וְתַ֗חַת כִּ֤י אָהַב֙ אֶת־אֲבֹתֶ֔יךָ וַיִּבְחַ֥ר בְּזַרְע֖וֹ אַחֲרָ֑יו וַיּוֹצִֽאֲךָ֧ בְּפָנָ֛יו בְּכֹח֥וֹ הַגָּדֹ֖ל מִמִּצְרָֽיִם׃
+לְהוֹרִ֗ישׁ גּוֹיִ֛ם גְּדֹלִ֧ים וַעֲצֻמִ֛ים מִמְּךָ֖ מִפָּנֶ֑יךָ לַהֲבִֽיאֲךָ֗ לָֽתֶת־לְךָ֧ אֶת־אַרְצָ֛ם נַחֲלָ֖ה כַּיּ֥וֹם הַזֶּֽה׃
+וְיָדַעְתָּ֣ הַיּ֗וֹם וַהֲשֵׁבֹתָ֮ אֶל־לְבָבֶ֒ךָ֒ כִּ֤י יְהֹוָה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד׃
+וְשָׁמַרְתָּ֞ אֶת־חֻקָּ֣יו וְאֶת־מִצְוֺתָ֗יו אֲשֶׁ֨ר אָנֹכִ֤י מְצַוְּךָ֙ הַיּ֔וֹם אֲשֶׁר֙ יִיטַ֣ב לְךָ֔ וּלְבָנֶ֖יךָ אַחֲרֶ֑יךָ וּלְמַ֨עַן תַּאֲרִ֤יךְ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר יְהֹוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לְךָ֖ כׇּל־הַיָּמִֽים׃
+],[
+You have been shown that you might know that Adonoy, He is the God; there is no [power] other than He.
+From the sky He made audible to you His voice to teach you, and on the earth He showed you His great fire, and you heard His words form within the fire.
+Because He loved your forefathers, He chose his descendants after him; and He took you out before Him with His great strength from Egypt.
+To expel nations greater and stronger than you from before you; to bring you in [and] to give you their land as terrritory, like this day.
+You will know today, and will restore to your perception that Adonoy is the God in heaven above and on earth below; there is no other.
+You will guard His statutes and His commandments, which I am commanding you today, so that you have it good and your children after you, and in order that you live long on the land that Adonoy, your God, is giving you for all time.
+])
