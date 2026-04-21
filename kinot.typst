@@ -3,6 +3,8 @@
   paper: "a4",
   margin: (x: 2cm, y: 2cm),
 )
+#set text(style: "italic")
+#set align(center)
 #let hrule = align(center, line(length: 60%, stroke: 2pt))
 
 // Heading configuration: centered and italic
@@ -18,6 +20,9 @@
 // --- DOCUMENT CONTENT ---
 
 = Before Arvit
+
+This is an instruction.
+
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
 #hrule
 == Haazinu

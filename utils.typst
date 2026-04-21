@@ -6,13 +6,15 @@
     
     // Left column: Hebrew (RTL)
     {
-      set text(font: "SBL Hebrew", lang: "he", dir: rtl)
+      set text(font: "SBL Hebrew", lang: "he", dir: rtl, style: "normal")
+      set align(right)
       heb_content
     },
     
     // Right column: English (LTR)
     {
-      set text(dir: ltr)
+      set text(dir: ltr, style: "normal")
+      set align(left)
       eng_content
     }
   )
