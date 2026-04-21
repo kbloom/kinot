@@ -5,29 +5,40 @@
 )
 #let hrule = align(center, line(length: 60%, stroke: 2pt))
 
+// Heading configuration: centered and italic
+#show heading: set align(center)
+#show heading: set text(style: "italic")
+
+// Only level 1 and 2 headings should appear in the table of contents and PDF bookmarks
+#show heading.where(level: 3): set heading(outlined: false, bookmarked: false)
+
 // Set the base font (English font)
 // #set text(font: "Linux Libertine", size: 11pt)
 
 // --- DOCUMENT CONTENT ---
 
+= Before Arvit
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
 #hrule
+== Haazinu
 #include "scripture_translated/Haazinu.typst"
 #hrule
+= After Arvit Shemoneh Esreh
 #include "kinot_translated/02_Oy_Ki_Yarad_Esh.typst"
 #hrule
 #include "kinot_translated/05_Lemi_Evke.typst"
 #hrule
 
-== Chapter 1
+== Megillat Eichah
+=== Chapter 1
 #include "scripture_translated/Eichah_1.typst"
-== Chapter 2
+=== Chapter 2
 #include "scripture_translated/Eichah_2.typst"
-== Chapter 3
+=== Chapter 3
 #include "scripture_translated/Eichah_3.typst"
-== Chapter 4
+=== Chapter 4
 #include "scripture_translated/Eichah_4.typst"
-== Chapter 5
+=== Chapter 5
 #include "scripture_translated/Eichah_5.typst"
 
 
@@ -65,6 +76,7 @@
 #hrule
 #include "kinot_translated/29_Al_Heichali_Chevli.typst"
 #hrule
+= Kinot after Shacharit
 #include "kinot_translated/31_Shechina_Tzoeket.typst"
 #hrule
 #include "kinot_translated/32_Bat_Tzion_Shamati.typst"
@@ -117,6 +129,7 @@
 #hrule
 #include "kinot_translated/56_Ad_Ana_Bichya_BeTzion.typst"
 #hrule
+= Taking out the Sefer Torah
 #include "kinot_translated/58_Al_Heichali.typst"
 #hrule
 #include "kinot_translated/59_Sifdi_VeHeilili.typst"
@@ -127,6 +140,7 @@
 #hrule
 #include "scripture_translated/Ki_Tolid_Banim.typst"
 #hrule
+= Tefillat Minha
 #include "scripture_translated/Vaychal_Moshe.typst"
 #hrule
 #include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"
