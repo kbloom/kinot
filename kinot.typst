@@ -19,6 +19,8 @@
 
 // --- DOCUMENT CONTENT ---
 
+#outline(depth:2)
+
 = Before Arvit
 
 This is an instruction.
@@ -82,6 +84,16 @@ This is an instruction.
 #include "kinot_translated/29_Al_Heichali_Chevli.typst"
 #hrule
 = Kinot after Shacharit
+#include "kinot_translated/30a_VaAretz_Shafel_Rumi.typst"
+#hrule
+#include "kinot_translated/30b_BaChodesh_HaChamishi.typst"
+#hrule
+#include "kinot_translated/30c_Yaradti_LeTachtiyot.typst"
+#hrule
+#include "kinot_translated/30d_BaChodesh_HaChamishi.typst"
+#hrule
+#include "kinot_translated/30e_Dok_vChug.typst"
+#hrule
 #include "kinot_translated/31_Shechina_Tzoeket.typst"
 #hrule
 #include "kinot_translated/32_Bat_Tzion_Shamati.typst"
