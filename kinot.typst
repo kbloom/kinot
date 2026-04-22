@@ -10,7 +10,7 @@
 #let siddur_grid(or_vaderech: "", tefilat_yesharim: "", big_print: true) = {
   let font_size = if big_print { 20pt } else { 11pt }
   align(center, grid(
-    columns: (1fr, 1fr),
+    columns: 2,
     gutter: 1em,
     [Or VaDerech], [Tefilat Yesharim],
     text(size: font_size, weight: "bold", or_vaderech),
@@ -34,20 +34,32 @@
 
 = Before Arvit
 
-This is an instruction.
+#siddur_grid(
+  or_vaderech:[199],
+  big_print:false,
+)
 
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
 #hrule
 == Haazinu
+#siddur_grid(
+  or_vaderech:[197],
+)
 #include "scripture_translated/Haazinu.typst"
 #hrule
 = After Arvit Shemoneh Esreh
 #include "kinot_translated/02_Oy_Ki_Yarad_Esh.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[220],
+)
 #include "kinot_translated/05_Lemi_Evke.typst"
 #hrule
 
 == Megillat Eichah
+#siddur_grid(
+  or_vaderech:[221],
+)
 === Chapter 1
 #include "scripture_translated/Eichah_1.typst"
 === Chapter 2
@@ -62,28 +74,56 @@ This is an instruction.
 
 
 #hrule
+#siddur_grid(
+  or_vaderech:[233],
+)
 #include "kinot_translated/11_Az_Bachatainu.typst"
-#hrule
+
+Many congregations end this kinah here.
+
 #include "kinot_translated/12_Taleh_Rishon.typst"
 #hrule
-#include "kinot_translated/13_Shmu_Na_Acheinu.typst"
-#hrule
-#include "kinot_translated/15_Kaddish_dHu_Atid.typst"
-#hrule
+#siddur_grid(
+  or_vaderech:[235],
+  big_print:false,
+)
 #include "kinot_translated/16_Zechor_Hashem.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[235],
+)
 #include "kinot_translated/17_Beleil_Ze_Yivkayun.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[236],
+)
 #include "kinot_translated/18_Midei_Shana_Kina.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[237],
+)
 #include "kinot_translated/19_Al_Ze_Haya_Daveh_Libenu.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[238],
+  big_print:false
+)
 #include "kinot_translated/20_Al_Leil_Churban.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[238],
+  big_print:false
+)
 #include "kinot_translated/21_Oy_Ki_Yarad_Esh.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[239],
+)
 #include "kinot_translated/22_Zechor_Hashem.typst"
 #hrule
+#siddur_grid(
+  or_vaderech:[240],
+)
 #include "kinot_translated/23_Aleichem_Edah_Kedosha.typst"
 #hrule
 #include "kinot_translated/24_Oy_Ki_Kinah_Rabat.typst"
@@ -93,6 +133,11 @@ This is an instruction.
 #include "kinot_translated/26_Ad_Ana_Bichya_BeTzion.typst"
 #hrule
 #include "kinot_translated/29_Al_Heichali_Chevli.typst"
+#hrule
+#include "kinot_translated/13_Shmu_Na_Acheinu.typst"
+#hrule
+#include "kinot_translated/15_Kaddish_dHu_Atid.typst"
+
 #hrule
 = Kinot after Shacharit
 #include "kinot_translated/30a_VaAretz_Shafel_Rumi.typst"
