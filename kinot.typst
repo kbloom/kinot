@@ -9,12 +9,17 @@
 
 #let siddur_grid(or_vaderech: "", tefilat_yesharim: "", big_print: true) = {
   let font_size = if big_print { 20pt } else { 11pt }
-  block(breakable: false, sticky:true, width: 100%, align(center, grid(
-    columns: 2,
-    gutter: 1em,
-    [Or VaDerech], [Tefilat Yesharim],
-    text(size: font_size, weight: "bold", or_vaderech),
-    text(size: font_size, weight: "bold", tefilat_yesharim)
+  block(
+    breakable: false,
+    sticky:true,
+    fill: luma(230),
+    inset:8pt,
+    align(center, grid(
+      columns: 2,
+      gutter: 1em,
+      [Or VaDerech], [Tefilat Yesharim],
+      text(size: font_size, weight: "bold", or_vaderech),
+      text(size: font_size, weight: "bold", tefilat_yesharim)
   )))
 }
 
