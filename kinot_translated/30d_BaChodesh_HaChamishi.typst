@@ -1,0 +1,28 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation(
+  [בַּחֹֽדֶשׁ הַֽחֲמִישִׁי נֻתַּק אֵזוֹר כֹּחִי לְהַמְאִיכוֹ. \ 
+בְּתִשְׁעָה לַחֹֽדֶשׁ נוֹתַֽרְתִּי כְּגֽוֹרֶן עֵת הִדְרִיכוֹ. \ 
+בְּמַזַּל אַרְיֵה נֻגַּר עַמִּי סְחוֹב וְהַשְׁלִיכוֹ, \ 
+יוֹם עָלָה אַרְיֵה מִסֻּבְּכוֹ:],
+  [In the fifth month, the belt of my strength was loosened to crush it. \ 
+On the ninth of the month, I was left like a threshing floor at the time it is trodden. \ 
+In the sign of Leo, my people were dragged, pulled and cast away, \ 
+the day the lion came up from his thicket:]
+)
+
+#linear_translation(
+  [מִסֻּבְּכוֹ עָלָה וְהִשְׁקָֽנִי כּוֹס רַֽעַל. \ 
+אֲכָלַֽנִי הֲמָמַֽנִי, \ 
+וְאוֹתִי בְּמַסְגֵּר נָעַל:],
+  [From his thicket he came up and made me drink a cup of poison. \ 
+He devoured me, he confused me, \ 
+and he locked me in a prison:]
+)
+
+#linear_translation(
+  [(נָא הַחֲיֵה רְדוּמֵֽינוּ בְּכוֹס תַּֽעַל, \ 
+מֵמִית וּמְחַיֶּה מוֹרִיד שְׁאוֹל וַיַֽעַל:)],
+  [(Please revive our slumbering ones with a cup of healing, \ 
+He Who puts to death and brings to life, Who brings down to the grave and raises up:)]
+)

@@ -1,0 +1,57 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation(
+  [דּוֹק וְחוּג רָֽעֲשׁוּ, \ 
+וַתִּשְׁכּוֹן עָלַי עֲנָנָה. \ 
+וְכָל מְאוֹרֵי אוֹר קָֽדְרוּ, \ 
+וְחַמָּה וּלְבָנָה. \ 
+יוֹם רַבָּתִי בַגּוֹיִם הָֽיְתָה כְּאַלְמָנָה:],
+  [Heaven and the horizon shook, \ 
+and a cloud dwelt upon me. \ 
+And all the luminaries of light darkened, \ 
+even sun and moon. \ 
+The day she who was great among nations became like a widow:]
+)
+
+#linear_translation(
+  [וְדֻכְּאוּ לָאָרֶץ, \ 
+וְאֻמְלָלוּ אַנְשֵׁי הָֽאֱמוּנָה. \ 
+לָכֵן אֲקוֹנֵן בְּמָרָה, \ 
+בְּכָל שָׁנָה וְשָׁנָה. \ 
+מְלֵאֲתִי מִשְׁפָּט, \ 
+אֵיכָה הָיְתָה לְזוֹנָה:],
+  [And they were crushed to the earth, \ 
+and the men of faith became wretched. \ 
+Therefore I shall lament in bitterness, \ 
+in each and every year. \ 
+"She that was full of justice," \ 
+how has she become a harlot:]
+)
+
+#linear_translation(
+  [יְפֵה נוֹף, \ 
+מְשׂוֹשׂ כָּל הָאָֽרֶץ, \ 
+עַם קִרְיַת חָנָה. \ 
+הָיְתָה לְשַׁמָּה וְלִשְׁאִיָּה, \ 
+וּלְמָשָׁל וְלִשְׁנִינָה. \ 
+כָּל עַמָּהּ נֶֽאֱנָחִים, \ 
+לֹא מָצְאוּ חֲנִינָה:],
+  [Beautiful in elevation, \ 
+the joy of all the earth, \ 
+the people of the city where [David] camped. \ 
+She became a desolation and a ruin, \ 
+and for a proverb and a byword. \ 
+All her people are sighing, \ 
+they found no favor:]
+)
+
+#linear_translation(
+  [דָּהֲמוּ גִבּוֹרֶֽיהָ מִפְּנֵי חֶֽרֶב הַיּוֹנָה. \ 
+יָכִין וּבֽוֹעַז נֶעֱקָרוּ מִגּֽוֹרֶן אֲרַוְנָה. \ 
+רָֽמְסוּ זָרִים, \ 
+וְשָֽׁאֲגוּ בִּמְקוֹם הַשְּׁכִינָה:],
+  [Her warriors were astounded before the oppressing sword. \ 
+Jachin and Boaz were uprooted from the threshing floor of Araunah. \ 
+Strangers trampled, \ 
+and roared in the place of the Divine Presence:]
+)

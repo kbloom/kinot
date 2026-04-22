@@ -1,0 +1,39 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation(
+  [יָרַֽדְתִּי לְתַחְתִּיּוֹת, \ 
+וְאָבַד נִצְחִי. \ 
+סָֽרָה צְפִירַת תִּפְאַרְתִּי וְצִיצַת מִצְחִי. \ 
+פָּקוּ מוֹרֵי פְּלִילִיָּה, \ 
+וְעִבְּטוּ אָרְחִי. \ 
+בָּחַֽלְתִּי נְאֻם סַלְעִי, \ 
+וְנֶֽאֱסַף בְּחֶטְאִי יַרְחִי. \ 
+חֻקֵּי זְמִרוֹת קְנוּיוֹת הֲסִירֽוֹתִי מִנִּכְחִי, \ 
+וּלְכָל בָּהֵן חַיֵּי רוּחִי:],
+  [I have descended to the depths, \ 
+and my eternity is lost. \ 
+The crown of my beauty and the ornament of my forehead have departed. \ 
+The teachers of the Law have failed, \ 
+and they have perverted my way. \ 
+I have loathed the word of my Rock, \ 
+and my month was gathered in through my sin. \ 
+The statutes of acquired songs I have removed from before me, \ 
+yet in all of them was the life of my spirit:]
+)
+
+#linear_translation(
+  [רוּחִי חֻבָּֽלָה, \ 
+יָמַי נִזְעָֽכוּ בְּרֹב כַּחְשִׁי. \ 
+זַלְעָפָה אֲחָזַֽתְנִי, \ 
+וְנִלְכַּֽדְתִּי בְמוֹקְשִׁי. \ 
+נְהִי וּמִסְפֵּד אֲעוֹרֵר, \ 
+וְקִינִים תֶּהְגֶּה נַפְשִׁי, \ 
+מִדֵּי שָׁנָה בְשָׁנָה בַּחֹדֶשׁ הַחֲמִישִׁי:],
+  [My spirit is broken, \ 
+my days are extinguished in the abundance of my deception. \ 
+A burning heat has seized me, \ 
+and I am caught in my snare. \ 
+Wailing and lamentation I shall rouse, \ 
+and dirges my soul shall meditate, \ 
+every year on the fifth month:]
+)

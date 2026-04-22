@@ -1,0 +1,25 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation(
+  [בַּחֹֽדֶשׁ הַֽחֲמִישִׁי אָנוּ וְאָֽבְלוּ פִּתְחֵי מְעוֹנַי. \ 
+בְּתִשְׁעָה לַחֹֽדֶשׁ אָֽפְלוּ וְכָהוּ עֵינַי. \ 
+בְּמַזַּל אַרְיֵה אֲרִי נֹהֵם, \ 
+וְצָלְלוּ אָזְנָי, \ 
+יוֹם וַיִּקְרָ֖א אַרְיֵ֑ה עַל־מִצְפֶּ֣ה ׀ אֲדֹנָ֗י:],
+  [In the fifth month, the entrances of my dwellings mourned and lamented. \ 
+On the ninth of the month, my eyes grew dark and dim. \ 
+In the sign of Leo, a lion roars, \ 
+and my ears rang, \ 
+the day the lion called upon the watchtower of the Lord:]
+)
+
+#linear_translation(
+  [(יְהֹוָה אַל תִּקְצֹף עַד מְאֹד לְהַכְנִיעִי, \ 
+וְאַל לָעַד תִּזְכּוֹר עָוֹן לְהַרְשִׁיעִי. \ 
+אֱזוֹן נָא מִזְּבוּלֶךָ לְקוֹל שַׁוְעִי, \ 
+מָגִנִּי וְקֶֽרֶן יִשְׁעִי:)],
+  [(O HASHEM, do not be exceedingly angry to humble me, \ 
+and do not remember iniquity forever to condemn me. \ 
+Incline Your ear, please, from Your dwelling to the voice of my cry, \ 
+my shield and the horn of my salvation:)]
+)
