@@ -9,13 +9,13 @@
 
 #let siddur_grid(or_vaderech: "", tefilat_yesharim: "", big_print: true) = {
   let font_size = if big_print { 20pt } else { 11pt }
-  align(center, grid(
+  block(breakable: false, sticky:true, width: 100%, align(center, grid(
     columns: 2,
     gutter: 1em,
     [Or VaDerech], [Tefilat Yesharim],
     text(size: font_size, weight: "bold", or_vaderech),
     text(size: font_size, weight: "bold", tefilat_yesharim)
-  ))
+  )))
 }
 
 // Heading configuration: centered and italic
