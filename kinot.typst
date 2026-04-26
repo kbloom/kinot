@@ -79,6 +79,7 @@
 
 
 #hrule
+== Kinot
 #siddur_grid(
   or_vaderech:[233],
 )
@@ -159,6 +160,7 @@ Many congregations end this kinah here.
 )
 #include "kinot_translated/15_Kaddish_dHu_Atid.typst"
 #hrule
+== Consolation
 #siddur_grid(
   or_vaderech:[248],
 )
@@ -166,7 +168,8 @@ Many congregations end this kinah here.
 
 #pagebreak()
 
-= Taking out the Sefer Torah
+= Sefer Torah of Shaharit
+== Taking out the Sefer Torah
 #siddur_grid(
   or_vaderech:[252],
 )
@@ -187,12 +190,18 @@ Many congregations end this kinah here.
 )
 #include "kinot_translated/61_Bimkom_Ashrei_HaAm.typst"
 #hrule
+== Torah Reading
 #siddur_grid(
   or_vaderech:[256],
 )
 #include "scripture_translated/Ki_Tolid_Banim.typst"
+#hrule
+== Haftarah
+#hrule
+== Returining the Sefer Torah
 
-= Kinot after Shacharit
+= After Shacharit
+== Kinot
 #siddur_grid(
   or_vaderech:[285],
 )
@@ -357,8 +366,12 @@ Many congregations end this kinah here.
 #include "kinot_translated/15_Kaddish_dHu_Atid.typst"
 #pagebreak()
 = Tefillat Minha
+== Torah Reading
 #include "scripture_translated/Vaychal_Moshe.typst"
 #hrule
+== Haftarah
+#hrule
+== Consolation
 #include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"
 #hrule
 #include "kinot_translated/71_Comfort_Verses.typst"
