@@ -41,22 +41,23 @@
 
 #siddur_grid(
   or_vaderech:[199],
+  tefilat_yesharim:[121],
   big_print:false,
 )
 
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
-#hrule
 == Haazinu
 #siddur_grid(
   or_vaderech:[197],
+  tefilat_yesharim:[122],
 )
 #include "scripture_translated/Haazinu.typst"
 #hrule
 = After Arvit Shemoneh Esreh
-#include "kinot_translated/02_Oy_Ki_Yarad_Esh.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[220],
+  tefilat_yesharim:[139],
 )
 #include "kinot_translated/05_Lemi_Evke.typst"
 #hrule
@@ -64,6 +65,7 @@
 == Megillat Eichah
 #siddur_grid(
   or_vaderech:[221],
+  tefilat_yesharim:[140],
 )
 === Chapter 1
 #include "scripture_translated/Eichah_1.typst"
@@ -82,6 +84,7 @@
 == Kinot
 #siddur_grid(
   or_vaderech:[233],
+  tefilat_yesharim:[148],
 )
 #include "kinot_translated/11_Az_Bachatainu.typst"
 
@@ -91,78 +94,92 @@ Many congregations end this kinah here.
 #hrule
 #siddur_grid(
   or_vaderech:[235],
+  tefilat_yesharim:[150],
   big_print:false,
 )
 #include "kinot_translated/16_Zechor_Hashem.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[235],
+  tefilat_yesharim:[150],
 )
 #include "kinot_translated/17_Beleil_Ze_Yivkayun.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[236],
+  tefilat_yesharim:[151],
 )
 #include "kinot_translated/18_Midei_Shana_Kina.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[237],
+  tefilat_yesharim:[151],
 )
 #include "kinot_translated/19_Al_Ze_Haya_Daveh_Libenu.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[238],
+  tefilat_yesharim:[152],
   big_print:false
 )
 #include "kinot_translated/20_Al_Leil_Churban.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[238],
+  tefilat_yesharim:[122],
   big_print:false
 )
 #include "kinot_translated/21_Oy_Ki_Yarad_Esh.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[239],
+  tefilat_yesharim:[152],
 )
 #include "kinot_translated/22_Zechor_Hashem.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[240],
+  tefilat_yesharim:[153],
 )
 #include "kinot_translated/23_Aleichem_Edah_Kedosha.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[242],
+  tefilat_yesharim:[154],
   big_print: false
 )
 #include "kinot_translated/24_Oy_Ki_Kinah_Rabat.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[242],
+  tefilat_yesharim:[154],
   big_print: false
 )
 #include "kinot_translated/25_Ani_HaGever_Akonen.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[243],
+  tefilat_yesharim:[148],
 )
 #include "kinot_translated/13_Shmu_Na_Acheinu.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[251],
+  tefilat_yesharim:[156],
   big_print: false
 )
 #include "kinot_translated/29_Al_Heichali_Chevli.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[246],
+  tefilat_yesharim:[149],
 )
 #include "kinot_translated/15_Kaddish_dHu_Atid.typst"
 #hrule
 == Consolation
 #siddur_grid(
   or_vaderech:[248],
+  tefilat_yesharim:[155],
 )
 #include "kinot_translated/26_Ad_Ana_Bichya_BeTzion.typst"
 
@@ -172,27 +189,32 @@ Many congregations end this kinah here.
 == Taking out the Sefer Torah
 #siddur_grid(
   or_vaderech:[252],
+  tefilat_yesharim:[191],
 )
 #include "kinot_translated/58_Al_Heichali.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[253],
+  tefilat_yesharim:[191],
 )
 #include "kinot_translated/59_Sifdi_VeHeilili.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[253],
+  tefilat_yesharim:[192],
 )
 #include "kinot_translated/60_Kumi_VeSifdi_Tora.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[255],
+  tefilat_yesharim:[193],
 )
 #include "kinot_translated/61_Bimkom_Ashrei_HaAm.typst"
 #hrule
 == Torah Reading
 #siddur_grid(
   or_vaderech:[256],
+  tefilat_yesharim:[194],
 )
 #include "scripture_translated/Ki_Tolid_Banim.typst"
 #hrule
@@ -204,164 +226,197 @@ Many congregations end this kinah here.
 == Kinot
 #siddur_grid(
   or_vaderech:[285],
+  tefilat_yesharim:[156],
 )
 #include "kinot_translated/30a_VaAretz_Shafel_Rumi.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[285],
+  tefilat_yesharim:[157],
 )
 #include "kinot_translated/30b_BaChodesh_HaChamishi.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[285],
+  tefilat_yesharim:[157],
 )
 #include "kinot_translated/30c_Yaradti_LeTachtiyot.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[286],
+  tefilat_yesharim:[157],
 )
 #include "kinot_translated/30d_BaChodesh_HaChamishi.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[286],
+  tefilat_yesharim:[158],
 )
 #include "kinot_translated/30e_Dok_vChug.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[287],
+  tefilat_yesharim:[158],
 )
 #include "kinot_translated/31_Shechina_Tzoeket.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[288],
+  tefilat_yesharim:[159],
 )
 #include "kinot_translated/32_Bat_Tzion_Shamati.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[290],
+  tefilat_yesharim:[161],
 )
 #include "kinot_translated/33_Damemu_Serafim.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[291],
+  tefilat_yesharim:[161],
 )
 #include "kinot_translated/34_BaChodesh_HaChamisis.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[292],
+  tefilat_yesharim:[162],
 )
 #include "kinot_translated/35_Ach_Ze_HaYom.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[293],
+  tefilat_yesharim:[163],
 )
 #include "kinot_translated/36_Mizmor_LeAsaph.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[294],
+  tefilat_yesharim:[164],
 )
 #include "kinot_translated/37_Ad_Matai_Hashem.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[295],
+  tefilat_yesharim:[165],
 )
 #include "kinot_translated/38_Eicha_Tzon_HaHareigah.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[297],
+  tefilat_yesharim:[166],
 )
 #include "kinot_translated/39_Sei_Kina.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[299],
+  tefilat_yesharim:[168],
 )
 #include "kinot_translated/40_Gerushim_MiBeit.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[300],
+  tefilat_yesharim:[169],
 )
 #include "kinot_translated/41_Aich_Neve_Shudad.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[302],
+  tefilat_yesharim:[170],
 )
 #include "kinot_translated/42_Aleichem_Edah_Neemana.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[304],
+  tefilat_yesharim:[171],
 )
 #include "kinot_translated/43_Esh_Tukad_BeKirbi.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[306],
+  tefilat_yesharim:[172],
 )
 #include "kinot_translated/44_Eli_Adati.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[310],
+  tefilat_yesharim:[175],
 )
 #include "kinot_translated/45_Bat_Ammi_Teheilil.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[312],
+  tefilat_yesharim:[176],
 )
 #include "kinot_translated/46_Eich_Navi_Chatati.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[314],
+  tefilat_yesharim:[178],
 )
 #include "kinot_translated/47_Yehuda_VeYisrael.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[317],
+  tefilat_yesharim:[180],
   big_print: false,
 )
 #include "kinot_translated/48_Eini_Eini_Yorda_Mayim.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[317],
+  tefilat_yesharim:[181],
   big_print: false,
 )
 #include "kinot_translated/49_Haragta_BeYom_Apecha.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[319],
+  tefilat_yesharim:[182],
 )
 #include "kinot_translated/50_Shomron_Kol_Titen.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[320],
+  tefilat_yesharim:[183],
+
 )
 #include "kinot_translated/51_Eleh_Ezkera.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[325],
+  tefilat_yesharim:[187],
 )
 #include "kinot_translated/52_Amra_Tzion.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[326],
+  tefilat_yesharim:[188],
 )
 #include "kinot_translated/53_LiShechina_Alta.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[327],
+  tefilat_yesharim:[189],
 )
 #include "kinot_translated/54_Allai_Li_Allai.typst"
 #hrule
 == Consolation
 #siddur_grid(
   or_vaderech:[328],
+  tefilat_yesharim:[190],
 )
 #include "kinot_translated/55_HaNoten_BaYam_Derech.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[329],
+  tefilat_yesharim:[190],
 )
 #include "kinot_translated/56_Ad_Ana_Bichya_BeTzion.typst"
 #hrule
 #siddur_grid(
   or_vaderech:[246],
+  tefilat_yesharim:[149],
 )
 #include "kinot_translated/15_Kaddish_dHu_Atid.typst"
 #pagebreak()
