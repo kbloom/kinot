@@ -219,6 +219,7 @@ Many congregations end this kinah here.
 #include "scripture_translated/Ki_Tolid_Banim.typst"
 #hrule
 == Haftarah
+#include "scripture_translated/Asof_Asifem.typst"
 #hrule
 == Returining the Sefer Torah
 
@@ -425,6 +426,7 @@ Many congregations end this kinah here.
 #include "scripture_translated/Vaychal_Moshe.typst"
 #hrule
 == Haftarah
+#include "scripture_translated/Shuvah_Yisrael.typst"
 #hrule
 == Consolation
 #include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"

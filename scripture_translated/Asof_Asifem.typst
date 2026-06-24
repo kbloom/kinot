@@ -1,0 +1,171 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation(
+  [אָסֹ֥ף אֲסִיפֵ֖ם נְאֻם־יְהֹוָ֑ה אֵין֩ עֲנָבִ֨ים בַּגֶּ֜פֶן וְאֵ֧ין תְּאֵנִ֣ים בַּתְּאֵנָ֗ה וְהֶעָלֶה֙ נָבֵ֔ל וָאֶתֵּ֥ן לָהֶם יַעַבְרֽוּם׃],
+  [I will utterly consume them, declares Adonoy; there are no grapes on the vine, and no figs on the fig tree, and the leaf is withered; and what I have given them shall pass away from them.]
+)
+
+#linear_translation(
+  [עַל־מָה֙ אֲנַ֣חְנוּ יֹֽשְׁבִ֔ים הֵאָסְפ֗וּ וְנָב֛וֹא אֶל־עָרֵ֥י הַמִּבְצָ֖ר וְנִדְּמָה־שָּׁ֑ם כִּי֩ יְהֹוָ֨ה אֱלֹהֵ֤ינוּ הֲדִמָּ֙נוּ֙ וַיַּשְׁקֵ֣נוּ מֵי־רֹ֔אשׁ כִּ֥י חָטָ֖אנוּ לַיהֹוָֽה׃],
+  [Why do we sit still? Assemble yourselves, and let us enter into the fortified cities, and let us perish there; for Adonoy our God has brought us to silence, and given us poisoned water to drink, because we have sinned against Adonoy.]
+)
+
+#linear_translation(
+  [קַוֵּ֥ה לְשָׁל֖וֹם וְאֵ֣ין ט֑וֹב לְעֵ֥ת מַרְפֵּ֖ה וְהִנֵּ֥ה בְעָתָֽה׃],
+  [Hoping for peace, but there is no good; for a time of healing, and behold, terror!]
+)
+
+#linear_translation(
+  [מִדָּ֤ן נִשְׁמַע֙ נַחְרַ֣ת סוּסָ֔יו מִקּוֹל֙ מִצְהֲל֣וֹת אַבִּירָ֔יו רָעֲשָׁ֖ה כׇּל־הָאָ֑רֶץ וַיָּב֗וֹאוּ וַיֹּֽאכְלוּ֙ אֶ֣רֶץ וּמְלוֹאָ֔הּ עִ֖יר וְיֹ֥שְׁבֵי בָֽהּ׃ {פ}],
+  [From Dan is heard the snorting of his horses; at the sound of the neighing of his strong ones, the whole land trembles; for they come and devour the land and all that is in it, the city and those who dwell in it.]
+)
+
+#linear_translation(
+  [כִּי֩ הִנְנִ֨י מְשַׁלֵּ֜חַ בָּכֶ֗ם נְחָשִׁים֙ צִפְעֹנִ֔ים אֲשֶׁ֥ר אֵין־לָהֶ֖ם לָ֑חַשׁ וְנִשְּׁכ֥וּ אֶתְכֶ֖ם נְאֻם־יְהֹוָֽה׃ {ס}],
+  [For behold, I send serpents among you, vipers for which there is no charm, and they shall bite you, declares Adonoy.]
+)
+
+#linear_translation(
+  [מבְלִ֥יגִיתִ֖י עֲלֵ֣י יָג֑וֹן עָלַ֖י לִבִּ֥י דַוָּֽי׃],
+  [My comfort in sorrow is gone; my heart is faint within me.]
+)
+
+#linear_translation(
+  [הִנֵּה־ק֞וֹל שַֽׁוְעַ֣ת בַּת־עַמִּ֗י מֵאֶ֙רֶץ֙ מַרְחַקִּ֔ים הַֽיהֹוָה֙ אֵ֣ין בְּצִיּ֔וֹן אִם־מַלְכָּ֖הּ אֵ֣ין בָּ֑הּ מַדּ֗וּעַ הִכְעִס֛וּנִי בִּפְסִלֵיהֶ֖ם בְּהַבְלֵ֥י נֵכָֽר׃],
+  [Behold, the voice of the cry of the daughter of my people from a land far off: "Is Adonoy not in Zion? Is her King no longer in her?" "Why have they provoked Me to anger with their graven images, and with foreign vanities?"]
+)
+
+#linear_translation(
+  [עָבַ֥ר קָצִ֖יר כָּ֣לָה קָ֑יִץ וַאֲנַ֖חְנוּ ל֥וֹא נוֹשָֽׁעְנוּ׃],
+  [The harvest is past, the summer is ended, and we are not saved.]
+)
+
+#linear_translation(
+  [עַל־שֶׁ֥בֶר בַּת־עַמִּ֖י הׇשְׁבָּ֑רְתִּי קָדַ֕רְתִּי שַׁמָּ֖ה הֶחֱזִקָֽתְנִי׃],
+  [For the hurt of the daughter of my people I am hurt; I mourn; dismay has seized me.]
+)
+
+#linear_translation(
+  [הַצֳּרִי֙ אֵ֣ין בְּגִלְעָ֔ד אִם־רֹפֵ֖א אֵ֣ין שָׁ֑ם כִּ֗י מַדּ֙וּעַ֙ לֹ֣א עָֽלְתָ֔ה אֲרֻכַ֖ת בַּת־עַמִּֽי׃ {ס}],
+  [Is there no balm in Gilead? Is there no physician there? Why then has the healing of the daughter of my people not come?]
+)
+
+#linear_translation(
+  [מִֽי־יִתֵּ֤ן רֹאשִׁי֙ מַ֔יִם וְעֵינִ֖י מְק֣וֹר דִּמְעָ֑ה וְאֶבְכֶּה֙ יוֹמָ֣ם וָלַ֔יְלָה אֵ֖ת חַֽלְלֵ֥י בַת־עַמִּֽי׃ {ס}],
+  [Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!]
+)
+
+#linear_translation(
+  [מִֽי־יִתְּנֵ֣נִי בַמִּדְבָּ֗ר מְלוֹן֙ אֹֽרְחִ֔ים וְאֶֽעֶזְבָה֙ אֶת־עַמִּ֔י וְאֵלְכָ֖ה מֵאִתָּ֑ם כִּ֤י כֻלָּם֙ מְנָ֣אֲפִ֔ים עֲצֶ֖רֶת בֹּגְדִֽים׃],
+  [Oh that I were in the wilderness, in a lodging place of wayfarers, that I might leave my people and go from them! For they are all adulterers, an assembly of treacherous men.]
+)
+
+#linear_translation(
+  [וַֽיַּדְרְכ֤וּ אֶת־לְשׁוֹנָם֙ קַשְׁתָּ֣ם שֶׁ֔קֶר וְלֹ֥א לֶאֱמוּנָ֖ה גָּבְר֣וּ בָאָ֑רֶץ כִּי֩ מֵרָעָ֨ה אֶל־רָעָ֧ה ׀ יָצָ֛אוּ וְאֹתִ֥י לֹא־יָדָ֖עוּ נְאֻם־יְהֹוָֽה׃],
+  [And they bend their tongue like their bow for falsehood; and they grow strong in the land, but not for truth; for they proceed from evil to evil, and they know Me not, declares Adonoy.]
+)
+
+#linear_translation(
+  [אִ֤ישׁ מֵרֵעֵ֙הוּ֙ הִשָּׁמֵ֔רוּ וְעַל־כׇּל־אָ֖ח אַל־תִּבְטָ֑חוּ כִּ֤י כׇל־אָח֙ עָק֣וֹב יַעְקֹ֔ב וְכׇל־רֵ֖עַ רָכִ֥יל יַהֲלֹֽךְ׃],
+  [Take heed everyone of his neighbor, and trust not in any brother; for every brother will surely supplant, and every neighbor will walk in slander.]
+)
+
+#linear_translation(
+  [וְאִ֤ישׁ בְּרֵעֵ֙הוּ֙ יְהָתֵ֔לּוּ וֶאֱמֶ֖ת לֹ֣א יְדַבֵּ֑רוּ לִמְּד֧וּ לְשׁוֹנָ֛ם דַּבֶּר־שֶׁ֖קֶר הַעֲוֵ֥ה נִלְאֽוּ׃],
+  [And they mock everyone his neighbor, and speak not the truth; they have taught their tongue to speak falsehood; they weary themselves to commit iniquity.]
+)
+
+#linear_translation(
+  [שִׁבְתְּךָ֖ בְּת֣וֹךְ מִרְמָ֑ה בְּמִרְמָ֛ה מֵאֲנ֥וּ דַעַת־אוֹתִ֖י נְאֻם־יְהֹוָֽה׃ {ס}],
+  [Your dwelling is in the midst of deceit; through deceit they refuse to know Me, declares Adonoy.]
+)
+
+#linear_translation(
+  [לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת הִנְנִ֥י צוֹרְפָ֖ם וּבְחַנְתִּ֑ים כִּי־אֵ֣יךְ אֶֽעֱשֶׂ֔ה מִפְּנֵ֖י בַּת־עַמִּֽי׃],
+  [Therefore, thus says Adonoy of Hosts: Behold, I will melt them and try them; for how else should I act because of the daughter of My people?]
+)
+
+#linear_translation(
+  [חֵ֥ץ (שוחט) \\[שָׁח֛וּט\\] לְשׁוֹנָ֖ם מִרְמָ֣ה דִבֵּ֑ר בְּפִ֗יו שָׁל֤וֹם אֶת־רֵעֵ֙הוּ֙ יְדַבֵּ֔ר וּבְקִרְבּ֖וֹ יָשִׂ֥ים אׇרְבּֽוֹ׃],
+  [Their tongue is a deadly arrow; it speaks deceit. One speaks peaceably to his neighbor with his mouth, but inwardly he sets an ambush for him.]
+)
+
+#linear_translation(
+  [הַעַל־אֵ֥לֶּה לֹא־אֶפְקׇד־בָּ֖ם נְאֻם־יְהֹוָ֑ה אִ֚ם בְּג֣וֹי אֲשֶׁר־כָּזֶ֔ה לֹ֥א תִתְנַקֵּ֖ם נַפְשִֽׁי׃ {ס}],
+  [Shall I not punish them for these things? declares Adonoy. Shall My soul not be avenged on such a nation as this?]
+)
+
+#linear_translation(
+  [עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי וְעַל־נְא֤וֹת מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּתוּ֙ מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹא שָׁמְעוּ קוֹל מִקְנֶה מֵעוֹף הַשָּׁמַיִם וְעַד־בְּהֵמָה נָדְדוּ הָלָכוּ׃],
+  [For the mountains will I take up a weeping and wailing, and for the pastures of the wilderness a lamentation, because they are laid waste, so that no man passes through, nor do they hear the voice of cattle; both the fowl of the heavens and the beasts are fled, they are gone.]
+)
+
+#linear_translation(
+  [וְנָתַתִּ֧י אֶת־יְרוּשָׁלַ֛͏ִם לְגַלִּ֖ים מְע֣וֹן תַּנִּ֑ים וְאֶת־עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן שְׁמָמָ֖ה מִבְּלִ֥י יוֹשֵֽׁב׃ {ס}],
+  [And I will make Jerusalem heaps, a lair of jackals; and I will make the cities of Yehudah a desolation, without inhabitant.]
+)
+
+#linear_translation(
+  [מִֽי־הָאִ֤ישׁ הֶחָכָם֙ וְיָבֵ֣ן אֶת־זֹ֔את וַאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְהֹוָ֛ה אֵלָ֖יו וְיַגִּדָ֑הּ עַל־מָה֙ אָבְדָ֣ה הָאָ֔רֶץ נִצְּתָ֥ה כַמִּדְבָּ֖ר מִבְּלִ֥י עֹבֵֽר׃ {ס}],
+  [Who is the wise man who may understand this? And who is he to whom the mouth of Adonoy has spoken, that he may declare it? Why is the land ruined, laid waste like a wilderness, so that no one passes through?]
+)
+
+#linear_translation(
+  [וַיֹּ֣אמֶר יְהֹוָ֔ה עַל־עׇזְבָם֙ אֶת־תּ֣וֹרָתִ֔י אֲשֶׁר־נָתַ֖תִּי לִפְנֵיהֶ֑ם וְלֹא־שָׁמְע֥וּ בְקוֹלִ֖י וְלֹא־הָ֥לְכוּ בָֽהּ׃],
+  [And Adonoy said: Because they have forsaken My law which I set before them, and have not obeyed My voice, nor walked in it;]
+)
+
+#linear_translation(
+  [וַיֵּ֣לְכוּ אַחֲרֵי שְׁרִר֣וּת לִבָּ֑ם וְאַֽחֲרֵי֙ הַבְּעָלִ֔ים אֲשֶׁר לִמְּד֖וּם אֲבוֹתָֽם׃ {פ}],
+  [But have walked after the stubbornness of their own heart, and after the Baalim, which their fathers taught them;]
+)
+
+#linear_translation(
+  [לָכֵ֗ן כֹּה־אָמַ֞ר יְהֹוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֧י מַאֲכִילָ֛ם אֶת־הָעָ֥ם הַזֶּ֖ה לַעֲנָ֑ה וְהִשְׁקִיתִ֖ים מֵי־רֹֽאשׁ׃],
+  [Therefore, thus says Adonoy of Hosts, the God of Yisrael: Behold, I will feed them, even this people, with wormwood, and give them poisoned water to drink.]
+)
+
+#linear_translation(
+  [וַהֲפִֽצוֹתִים֙ בַּגּוֹיִם אֲשֶׁר לֹא יָדְעוּ הֵמָּה וַאֲבוֹתָם וְשִׁלַּחְתִּ֧י אַחֲרֵיהֶם אֶת־הַחֶרֶב עַד כַּלּוֹתִי אוֹתָם׃ {פ}],
+  [I will scatter them also among the nations, whom neither they nor their fathers have known; and I will send the sword after them, until I have consumed them.]
+)
+
+#linear_translation(
+  [כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת הִתְבּ֥וֹנְנ֛וּ וְקִרְא֥וּ לַמְקוֹנְנ֖וֹת וּתְבוֹאֶ֑ינָה וְאֶל־הַחֲכָמ֥וֹת שִׁלְח֖וּ וְתָבֽוֹאנָה׃],
+  [Thus says Adonoy of Hosts: Consider, and call for the mourning women, that they may come; and send for the wise women, that they may come;]
+)
+
+#linear_translation(
+  [וּתְמַהֵ֕רְנָה וְתִשֶּׂ֥נָה עָלֵ֖ינוּ נֶ֑הִי וְתֵרַ֤דְנָה עֵינֵ֙ינוּ֙ דִּמְעָ֔ה וְעַפְעַפֵּ֖ינוּ יִזְּלוּ־מָֽיִם׃],
+  [And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with water.]
+)
+
+#linear_translation(
+  [כִּ֣י ק֥וֹל נְהִ֛י נִשְׁמַ֥ע מִצִּיּ֖וֹן אֵ֣יךְ שֻׁדָּ֑דְנוּ בֹּ֤שְׁנֽוּ מְאֹד֙ כִּֽי־עָזַ֣בְנוּ אָ֔רֶץ כִּ֥י הִשְׁלִ֖יכוּ מִשְׁכְּנוֹתֵֽינוּ׃ {ס}],
+  [For a voice of wailing is heard out of Zion: "How are we ruined! We are greatly confounded, because we have forsaken the land, because they have cast down our dwellings."]
+)
+
+#linear_translation(
+  [כִּֽי־שְׁמַ֤עְנָה נָשִׁים֙ דְּבַר־יְהֹוָ֔ה וְתִקַּ֥ח אׇזְנְכֶ֖ם דְּבַר־פִּ֑יו וְלַמֵּ֤דְנָה בְנֽוֹתֵיכֶם֙ נֶ֔הִי וְאִשָּׁ֥ה רְעוּתָ֖הּ קִינָֽה׃],
+  [Yet hear the word of Adonoy, O you women, and let your ear receive the word of His mouth, and teach your daughters wailing, and everyone her neighbor lamentation.]
+)
+
+#linear_translation(
+  [כִּי־עָ֤לָֽה מָ֙וֶת֙ בְּחַלּוֹנֵ֔ינוּ בָּ֖א בְּאַרְמְנוֹתֵ֑ינוּ לְהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ בַּחוּרִ֖ים מֵרְחֹבוֹת׃],
+  [For death has come up into our windows, it is entered into our palaces; to cut off the children from without, and the young men from the streets.]
+)
+
+#linear_translation(
+  [דַּבֵּ֗ר כֹּ֚ה נְאֻם־יְהֹוָ֔ה וְנָֽפְלָה֙ נִבְלַ֣ת הָאָדָ֔ם כְּדֹ֖מֶן עַל־פְּנֵ֣י הַשָּׂדֶ֑ה וּכְעָמִ֛יר מֵאַחֲרֵ֥י הַקֹּצֵ֖ר וְאֵ֥ין מְאַסֵּֽף׃ {ס}],
+  [Speak, thus declares Adonoy: The carcasses of men shall fall as dung upon the open field, and as the handful after the reaper, and none shall gather them.]
+)
+
+#linear_translation(
+  [כֹּה ׀ אָמַ֣ר יְהֹוָ֗ה אַל־יִתְהַלֵּ֤ל חָכָם֙ בְּחׇכְמָת֔וֹ וְאַל־יִתְהַלֵּ֥ל הַגִּבּ֖וֹר בִּגְבוּרָת֑וֹ אַל־יִתְהַלֵּ֥ל עָשִׁ֖יר בְּעׇשְׁרֽוֹ׃],
+  [Thus says Adonoy: Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches;]
+)
+
+#linear_translation(
+  [כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהֹוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהֹוָֽה׃ {ס}],
+  [But let him who glories glory in this, that he understands and knows Me, that I am Adonoy who exercises lovingkindness, justice, and righteousness in the earth; for in these things I delight, declares Adonoy.]
+)
