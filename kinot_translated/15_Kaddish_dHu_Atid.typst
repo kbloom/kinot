@@ -1,73 +1,96 @@
 #import "../utils.typst": linear_translation
 
 #linear_translation(
-  [יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא. \ 
-אמן דְּהוּא עָתִיד לְחַדְתָּא עָלְמָא. \ 
+  [יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא. אמן. \ 
+דְּהוּא עָתִיד לְחַדְתָּא עָלְמָא. \ 
 וּלְאַחְיָאָה מֵיתַיָּא. \ 
 וּלְשַׁכְלָלָא הֵיכְלָא. \ 
 וּלְמִפְרַק חַיָּיָא. \ 
 וּלְמִבְנֵא קַרְתָּא דִירוּשְׁלֵם. \ 
 וּלְמִעְקַר פּוּלְחָנָא דֶאֱלִילַיָּא מֵאַרְעָא. \ 
-וּלְאָתָבָא פוּלְחָנָא יַקִּירָא דִשְׁמַיָּא לְהַדְרֵיהּ וְזִיוֵיהּ וִיקָרֵיהּ אמן בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן וּבְחַיֵּי דְכָל־בֵּית יִשְׂרָאֵל, \ 
+וּלְאָתָבָא פוּלְחָנָא יַקִּירָא דִשְׁמַיָּא \ 
+לְהַדְרֵיהּ וְזִיוֵיהּ וִיקָרֵיהּ. אמן. \ 
+בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן \ 
+וּבְחַיֵּי דְכָל־בֵּית יִשְׂרָאֵל, \ 
 בַּעֲגָלָא וּבִזְמַן קָרִיב וְאִמְרוּ אָמֵן.],
-  [Exalted and sanctified be His great name. \ 
-Amen. In the world which He will create anew. \ 
+  [Exalted and sanctified be His great name. Amen. \ 
+In the world which He will create anew. \ 
 And revive the dead. \ 
 And perfect the Palace. \ 
 And deliver the living. \ 
 And rebuild the city of Jerusalem. \ 
 And uproot the worship of idols from the earth. \ 
-And restore the precious worship of heaven to its glory, its radiance, and its honor. Amen. In your lifetime and in your days and in the lifetime of the whole House of Israel, \ 
+And restore the precious worship of heaven \ 
+to its glory, its radiance, and its honor. Amen. \ 
+In your lifetime and in your days \ 
+and in the lifetime of the whole House of Israel, \ 
 speedily and soon, and say: Amen.]
 )
 
 #linear_translation(
-  [אמן יְהֵא שְׁמֵיהּ רַבָּא מְבָרַךְ לְעָלַם לְעָלְמֵי עָלְמַיָּא יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם וְיִתְנַשֵּׂא וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלָּל, \ 
-שְׁמֵיהּ דְּקֻדְשָׁא בְּרִיךְ הוּא.],
-  [Amen. May His great name be blessed forever and for all eternity. Blessed and praised and glorified and exalted and extolled and honored and uplifted and lauded be the name of the Holy One, \ 
-blessed be He.]
-)
-
-#linear_translation(
-  [אמן לְעֵלָּא מִן־כָּל־בִּרְכָתָא, \ 
-שִׁירָתָא, \ 
-תִּשְׁבְּחָתָא וְנֶחֱמָתָא, \ 
+  [יְהֵא שְׁמֵיהּ רַבָּא מְבָרַךְ \ 
+לְעָלַם לְעָלְמֵי עָלְמַיָּא. \ 
+יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם \ 
+וְיִתְנַשֵּׂא וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלָּל, \ 
+שְׁמֵיהּ דְּקֻדְשָׁא \ 
+בְּרִיךְ הוּא. \ 
+אמן. \ 
+לְעֵלָּא מִן־כָּל־בִּרְכָתָא, \ 
+שִׁירָתָא, תִּשְׁבְּחָתָא וְנֶחֱמָתָא, \ 
 דַּאֲמִירָן בְּעָלְמָא, \ 
-וְאִמְרוּ אָמֵן: אמן],
-  [Amen. Far beyond all blessings, \ 
-songs, \ 
-praises, and consolations \ 
+וְאִמְרוּ אָמֵן.],
+  [May His great name be blessed \ 
+forever and for all eternity. \ 
+Blessed and praised and glorified and exalted \ 
+and extolled and honored and uplifted and lauded \ 
+be the name of the Holy One, \ 
+blessed be He. \ 
+Amen. \ 
+Far beyond all blessings, \ 
+songs, praises, and consolations \ 
 that are uttered in the world, \ 
-and say: Amen. Amen:]
+and say: Amen.]
 )
 
 #linear_translation(
-  [תִּתְכְּלֵי חַרְבָּא וְכַפְנָא וּמוֹתָנָא. \ 
+  [תִּתְכְּלֵי חַרְבָּא וְכַפְנָא \ 
+וּמוֹתָנָא. \ 
 וּמַרְעִין בִּישִׁין. \ 
-יַעְדֵּא מִנָּנָא וּמִנְּכוֹן וּמֵעַל עַמֵּיהּ יִשְׂרָאֵל. \ 
-וְאִמְרוּ אָמֵן: אמן],
-  [May the sword, the famine, and the plague be ended. \ 
+יַעְדֵּא מִנָּנָא וּמִנְּכוֹן \ 
+וּמֵעַל עַמֵּיהּ יִשְׂרָאֵל. \ 
+וְאִמְרוּ אָמֵן.],
+  [May the sword and the famine \ 
+and the plague be ended. \ 
 And evil diseases. \ 
-May He remove from us and from you and from all His people Israel. \ 
-And say: Amen. Amen:]
+May He remove from us and from you \ 
+and from all His people Israel. \ 
+And say: Amen.]
 )
 
 #linear_translation(
   [יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּא. \ 
 חַיִּים וְשָׂבָע וִישׁוּעָה וְנֶחָמָה. \ 
-וְשֵׁיזָבָא וּרְפוּאָה וּגְאוּלָה וּסְלִיחָה וְכַפָּרָה וְרֶוַח וְהַצָּלָה לָנוּ וּלְכָל עַמּוֹ יִשְׂרָאֵל. \ 
-וְאִמְרוּ אָמֵן: אמן],
+וְשֵׁיזָבָא וּרְפוּאָה וּגְאוּלָה \ 
+וּסְלִיחָה וְכַפָּרָה \ 
+וְרֶוַח וְהַצָּלָה \ 
+לָנוּ וּלְכָל עַמּוֹ יִשְׂרָאֵל. \ 
+וְאִמְרוּ אָמֵן.],
   [May there be great peace from heaven. \ 
 Life, and plenty, and salvation, and consolation. \ 
-And rescue, and healing, and redemption, and forgiveness, and atonement, and relief, and deliverance for us and for all His people Israel. \ 
-And say: Amen. Amen:]
+And rescue, and healing, and redemption, \ 
+and forgiveness, and atonement, \ 
+and relief, and deliverance \ 
+for us and for all His people Israel. \ 
+And say: Amen.]
 )
 
 #linear_translation(
   [עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו. \ 
-הוּא בְּרַחֲמָיו יַעֲשֶׂה שָׁלוֹם עָלֵינוּ וְעַל כָּל־עַמּוֹ יִשְׂרָאֵל. \ 
-וְאִמְרוּ אָמֵן: אמן],
+הוּא בְּרַחֲמָיו יַעֲשֶׂה שָׁלוֹם עָלֵינוּ \ 
+וְעַל כָּל־עַמּוֹ יִשְׂרָאֵל. \ 
+וְאִמְרוּ אָמֵן.],
   [He who makes peace in His heights. \ 
-He in His mercy shall make peace upon us and upon all His people Israel. \ 
-And say: Amen. Amen:]
+He in His mercy shall make peace upon us \ 
+and upon all His people Israel. \ 
+And say: Amen.]
 )
