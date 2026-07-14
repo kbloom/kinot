@@ -219,6 +219,10 @@ Many congregations end this kinah here.
 #include "scripture_translated/Ki_Tolid_Banim.typst"
 #hrule
 == Haftarah
+#siddur_grid(
+  or_vaderech:[259],
+  tefilat_yesharim:[195],
+)
 #include "scripture_translated/Asof_Asifem.typst"
 #hrule
 == Returining the Sefer Torah
@@ -423,12 +427,24 @@ Many congregations end this kinah here.
 #pagebreak()
 = Tefillat Minha
 == Torah Reading
+#siddur_grid(
+  or_vaderech:[338],
+  tefilat_yesharim:[101],
+)
 #include "scripture_translated/Vaychal_Moshe.typst"
 #hrule
 == Haftarah
+#siddur_grid(
+  or_vaderech:[339],
+  tefilat_yesharim:[220],
+)
 #include "scripture_translated/Shuvah_Yisrael.typst"
 #hrule
 == Consolation
+#siddur_grid(
+  or_vaderech:[353],
+  tefilat_yesharim:[231],
+)
 #include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"
 #hrule
 #include "kinot_translated/71_Comfort_Verses.typst"
