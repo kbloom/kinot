@@ -78,6 +78,9 @@
 #set page(
   paper: "us-letter",
   margin: (x: 2cm, y: 2cm),
+  numbering: "1", // Use "1" for Arabic, "i" for Roman, or "A" for letters
+  number-align: center, // Align numbers to center, left, right, start, or end
+
 )
 #set text(style: "italic")
 #set align(center)
