@@ -1,6 +1,7 @@
 // --- DOCUMENT SETUP ---
+
 #set page(
-  paper: "a4",
+  paper: "us-letter",
   margin: (x: 2cm, y: 2cm),
 )
 #set text(style: "italic")
