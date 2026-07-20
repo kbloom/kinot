@@ -604,7 +604,9 @@ Many congregations end this kinah here.
   or_vaderech:[353],
   tefilat_yesharim:[231],
 )
-#include "kinot_translated/70_Nachamu_Nachamu_Ammi.typst"
+#include "kinot_translated/70a_Nachamu_Nachamu_Ammi.typst"
+#hrule
+#include "kinot_translated/70b_Nachamu_Nachamu_Ammi.typst"
 
 #hrule
 #include "kinot_translated/71_Comfort_Verses.typst"
