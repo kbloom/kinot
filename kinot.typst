@@ -1,4 +1,79 @@
 // --- DOCUMENT SETUP ---
+#set page(
+  paper: "a4",
+  margin: (top: 2.5cm, bottom: 2.5cm, left: 3cm, right: 3cm),
+)
+
+
+#align(center)[
+  // Outer decorative border
+  #rect(
+    width: 100%,
+    height: 100%,
+    stroke: 2pt + rgb("#2c3e50"),
+    inset: 12pt,
+  )[
+    // Inner decorative border
+    #rect(
+      width: 100%,
+      height: 100%,
+      stroke: 0.5pt + rgb("#2c3e50"),
+      inset: 2.5em,
+    )[
+      #v(1fr)
+
+      // Subtitle / Header
+      #text(size: 1.2em, tracking: 0.15em, weight: "medium", fill: rgb("#4a5568"))[
+        Seder
+      ]
+
+      #v(0.8em)
+
+      // Main Title
+      #text(size: 2.8em, weight: "bold", font: "Liberation Serif")[
+        Kinot for Tisha b’Av
+      ]
+
+      #v(1em)
+
+      #line(length: 40%, stroke: 0.75pt + rgb("#718096"))
+
+      #v(1.5em)
+
+      // Minhag Attribution
+      #text(size: 1.15em, style: "italic", fill: rgb("#2d3748"))[
+        According to the minhag in
+      ]
+
+      #v(0.4em)
+
+      #text(size: 1.3em, weight: "semibold")[
+        Siddur Or VaDerech #text(size: 0.9em, weight: "regular")[and] Tefilat Yesharim
+      ]
+
+      #v(2em)
+
+      #line(length: 20%, stroke: 0.5pt + rgb("#a0aec0"))
+
+      #v(1.5em)
+
+      // English Translation Note
+      #text(size: 1.1em, style: "italic", fill: rgb("#4a5568"))[
+        Accompanied by a Contemporary\
+        AI-Assisted English Translation
+      ]
+
+      #v(1fr)
+
+      // Publisher / Date Footer
+      #text(size: 0.9em, fill: rgb("#718096"))[
+        #datetime.today().display("[Year]")
+      ]
+
+      #v(0.5fr)
+    ]
+  ]
+]
 
 #set page(
   paper: "us-letter",
