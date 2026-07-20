@@ -127,14 +127,17 @@
 
 = Before Arvit
 
-#if not abridged {[
 #siddur_grid(
-  or_vaderech:[199],
+  or_vaderech:[196],
   tefilat_yesharim:[121],
-  big_print:false,
 )
+
+#if not abridged {[
 #include "kinot_translated/01_Al_Naharot_Bavel_Intro.typst"
+#hrule
 ]}
+
+#include "scripture_translated/Al_Neharot_Bavel.typst"
 
 == Haazinu
 #siddur_grid(
@@ -349,7 +352,19 @@ Many congregations end this kinah here.
 #include "scripture_translated/Asof_Asifem.typst"
 
 #hrule
+
+The tefillah continues with Ashrei and Uva Letziyon
+
 == Returining the Sefer Torah
+
+#siddur_grid(
+  or_vaderech:[270],
+  tefilat_yesharim:[],
+)
+#include "scripture_translated/Al_Neharot_Bavel.typst"
+
+The tefillah continues with Bet Yaakov.
+
 
 = After Shacharit
 == Kinot

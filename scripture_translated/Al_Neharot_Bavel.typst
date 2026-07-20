@@ -1,0 +1,48 @@
+#import "../utils.typst": linear_translation
+
+
+#linear_translation(
+[עַֽל־נַֽהֲר֨וֹת | בָּבֶ֗ל שָׁ֣ם יָ֖שַׁבְנוּ גַּם־בָּכִ֑ינוּ בְּ֜זָכְרֵ֗נוּ אֶת־צִיּֽוֹן:],
+[
+By the rivers of Babylon, there we sat, we also wept when we remembered Zion. 	  
+])
+#linear_translation(
+[עַל־עֲרָבִ֥ים בְּתוֹכָ֑הּ תָּ֜לִ֗ינוּ כִּנֹּֽרוֹתֵֽינוּ:],
+[
+On willows in its midst we hung our harps. 	  
+])
+#linear_translation(
+[כִּ֚י שָׁ֨ם שְׁאֵל֪וּנוּ שׁוֹבֵ֡ינוּ דִּבְרֵי־שִׁ֖יר וְתוֹלָלֵ֣ינוּ שִׂמְחָ֑ה שִׁ֥ירוּ לָ֜֗נוּ מִשִּׁ֥יר צִיּֽוֹן:],
+[
+For there our captors asked us for words of song and our tormentors \[asked of us\] mirth, "Sing for us of the song of Zion." 	  
+])
+#linear_translation(
+[אֵ֗יךְ נָ֖שִׁיר אֶת־שִׁ֣יר יְהֹוָ֑ה עַ֜֗ל אַדְמַ֥ת נֵכָֽר:],
+[
+"How shall we sing the song of the Lord on foreign soil?" 	  
+])
+#linear_translation(
+[אִם־אֶשְׁכָּחֵ֥ךְ יְ֜רֽוּשָׁלִָ֗ם תִּשְׁכַּ֥ח יְמִינִֽי:],
+[
+If I forget you, O Jerusalem, may my right hand forget [its skill]. 	  
+])
+#linear_translation(
+[תִּדְבַּ֚ק לְשׁוֹנִ֨י | לְחִכִּי֘ אִם־לֹ֪א אֶ֫זְכְּרֵ֥כִי אִם־לֹ֣א אַֽ֖עֲלֶה אֶת־יְרֽוּשָׁלִַ֑ם עַ֜֗ל רֹ֣אשׁ שִׂמְחָתִֽי:],
+[
+May my tongue cling to my palate, if I do not remember you, if I do not bring up Jerusalem at the beginning of my joy. 	  
+])
+#linear_translation(
+[זְכֹ֚ר יְהֹוָ֨ה | לִבְנֵ֬י אֱד֗וֹם אֵת֘ י֚וֹם יְרֽוּשָׁ֫לִָ֥ם הָ֖אֹֽמְרִים עָ֣רוּ | עָ֑רוּ עַ֜֗ד הַיְס֥וֹד בָּֽהּ:],
+[
+Remember, O Lord, for the sons of Edom, the day of Jerusalem, those who say, "Raze it, raze it, down to its foundation!" 	  
+])
+#linear_translation(
+[בַּת־בָּבֶ֗ל הַשְּׁד֫וּדָ֥ה אַשְׁרֵ֥י שֶׁיְשַׁלֶּם־לָ֑ךְ אֶת־גְּ֜מוּלֵ֗ךְ שֶׁגָּמַ֥לְתְּ לָֽנוּ:],
+[
+O Daughter of Babylon, who is destined to be plundered, praiseworthy is he who repays you your recompense that you have done to us. 	  
+])
+#linear_translation(
+[אַשְׁרֵ֚י | שֶׁיֹּאחֵ֓ז וְנִפֵּ֬ץ אֶת־עֹ֜לָלַ֗יִךְ אֶל־הַסָּֽלַע:],
+[
+Praiseworthy is he who will take and dash your infants against the rock. 	  
+])
