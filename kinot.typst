@@ -2,7 +2,7 @@
 #let abridged = true
 
 #set page(
-  paper: "a4",
+  paper: "us-letter",
   margin: (top: 2.5cm, bottom: 2.5cm, left: 3cm, right: 3cm),
 )
 
