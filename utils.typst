@@ -1,8 +1,8 @@
 // Define the translation layout function
-#let linear_translation(heb_content, eng_content) = {
+#let linear_translation(heb_content, eng_content, indent: 0cm) = {
   grid(
     columns: (2fr, 3fr), // Two columns, 2/5 for hebrew, 3/5 for English.
-    column-gutter: 1cm,  // Space between columns
+    column-gutter: 1cm + indent,  // Space between columns increases with indent
     
     // Left column: Hebrew (RTL)
     {
@@ -19,3 +19,5 @@
     }
   )
 }
+
+

@@ -1,5 +1,9 @@
 #import "../utils.typst": linear_translation
 
+#let jerusalem_translation(heb_content, eng_content) = {
+  linear_translation(heb_content, eng_content, indent: 1cm)
+}
+
 #linear_translation(
   [אֵשׁ תּוּקַד בְּקִרְבִּי, \
  בְּהַֽעֲלוֹתִי עַל לְבָבִי. \
@@ -8,7 +12,7 @@
  as I bring up upon my heart. \
 When I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְקִינוֹת אָעִֽירָה, \
  יַעַן כִּי אַזְכִּֽירָה. \
 בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -24,7 +28,7 @@ When I went out of Jerusalem:]
  a song that shall not be forgotten, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וַיְקוֹנֵן יִרְמְיָה, \
  וְנָהָה נְהִי נִֽהְיָה, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -40,7 +44,7 @@ When I went out of Jerusalem:]
  and the cloud dwelt there, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וַחֲמַת אֵל שָֽׁכְנָה, \
  עָלַי כַּֽעֲנָנָה, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -56,7 +60,7 @@ When I went out of Jerusalem:]
  and stood up like a wall, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [מַֽיִם שָׁטְפוּ, \
  עֲלֵי רֹאשִׁי צָֽפוּ, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -72,7 +76,7 @@ When I went out of Jerusalem:]
  and the Rock flowed with water, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [לַֽעֲנָה וְתַמְרוּרִים, \
  וּמַֽיִם הַמָּרִים, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -88,7 +92,7 @@ When I went out of Jerusalem:]
  around Mount Horeb, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [קָרָא אֶל אֵֽבֶל, \
  עַל נַֽהֲרוֹת בָּבֶל, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -104,7 +108,7 @@ When I went out of Jerusalem:]
   was like a consuming fire before me, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְחֶֽרֶב לְטוּשָׁה, \
  לַטֶּֽבַח נְטוּשָׁה, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -120,7 +124,7 @@ When I went out of Jerusalem:]
  and the anointing oil, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [סְגֻלָּה לְקוּחָה, \
  כַּצֹּאן לְטִבְחָה, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -136,7 +140,7 @@ When I went out of Jerusalem:]
  and wonders and signs, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [תַּֽעֲנִית וְאֵֽבֶל, \
  וּרְדוֹף הַהֶֽבֶל, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -152,7 +156,7 @@ When I went out of Jerusalem:]
   for the four banners, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [אָֽהֳלֵי יִשְׁמְעֵאלִים, \
  וּמַֽחֲנוֹת הַזָּרִים, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -168,7 +172,7 @@ When I went out of Jerusalem:]
  and a tranquil land, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [מָכוֹר לִצְמִיתוּת, \
  וְכָרוֹת לִכְרִיתוּת, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -184,7 +188,7 @@ When I went out of Jerusalem:]
  and the stones of remembrance, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְאַבְנֵי הַקָּלַע, \
  וּכְלֵי הַבָּלַע, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -200,7 +204,7 @@ When I went out of Jerusalem:]
  and seventy elders, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [נֽוֹגְשִׂים וּמוֹנִים, \
  וּמֽוֹכְרִים וְקוֹנִים, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -216,7 +220,7 @@ When I went out of Jerusalem:]
  Aaron would lead me, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וּנְבוּכַדְנֶצַּר, \
  וְאַדְרִיאָנוֹס קֵיסַר, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -232,7 +236,7 @@ When I went out of Jerusalem:]
  and the Lord was there, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [רָחַק מִמֶּֽנּוּ, \
  וְהִנֵּה אֵינֶֽנּוּ, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -248,7 +252,7 @@ When I went out of Jerusalem:]
  and the orders of the arrangement, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְחֵמָה נִתֶּֽכֶת, \
  עָלַי סוֹכֶֽכֶת. \
 בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -264,7 +268,7 @@ When I went out of Jerusalem:]
  and pleasing fire-offerings, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [בַּחֶֽרֶב מְדֻקָּרִים, \
  בְּנֵי צִיּוֹן הַיְקָרִים, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -280,7 +284,7 @@ When I went out of Jerusalem:]
   set for honor, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [שְׁרִיקוֹת וּתְרוּעוֹת, \
  לְקָלוֹן וּזְוָעוֹת, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -296,7 +300,7 @@ When I went out of Jerusalem:]
  and dominion and pride, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [אָפֵס הָעֵֽזֶר, \
  וְהֻשְׁלַךְ הַנֶּֽזֶר, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -312,7 +316,7 @@ When I went out of Jerusalem:]
  and the awesome Divine Presence, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [מְגוֹאֲלָה וּמוֹרָאָה, \
  וְרֽוּחַ הַטֻּמְאָה, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -328,7 +332,7 @@ When I went out of Jerusalem:]
  and the sounding of trumpets, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְזַֽעֲקַת עוֹלָל, \
  עִם נַֽאֲקַת חָלָל, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -344,7 +348,7 @@ When I went out of Jerusalem:]
  and the whole-offering and incense, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וֶֽאֱלִיל וְתֽוֹעֵבָה, \
  וּפֶֽסֶל וּמַצֵּבָה, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -360,7 +364,7 @@ When I went out of Jerusalem:]
  and the order of the service, \
  when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְחֶסְרוֹן הַתַּלְמִיד, \
  וּבִטּוּל הַתָּמִיד, \
  בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
@@ -376,7 +380,7 @@ When I went out of Jerusalem:]
   show me wonders. \
 As when I went out of Egypt:]
 )
-#linear_translation(
+#jerusalem_translation(
   [וְיָשִׁיב שְׁכִינָתוֹ, \
  אֶל צִיּוֹן וַעֲבֽוֹדָתוֹ. \
 אֶל תּוֹךְ יְרֽוּשָׁלַֽיִם:)],
