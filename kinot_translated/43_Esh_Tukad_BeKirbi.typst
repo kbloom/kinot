@@ -1,204 +1,386 @@
 #import "../utils.typst": linear_translation
 
 #linear_translation(
-  [אֵשׁ תּוּקַד בְּקִרְבִּי, בְּהַֽעֲלוֹתִי עַל לְבָבִי. \
+  [אֵשׁ תּוּקַד בְּקִרְבִּי, \
+ בְּהַֽעֲלוֹתִי עַל לְבָבִי. \
 בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [A fire is kindled within me, as I bring up upon my heart. \
+  [A fire is kindled within me, \
+ as I bring up upon my heart. \
 When I went out of Egypt:]
 )
 #linear_translation(
-  [וְקִינוֹת אָעִֽירָה, יַעַן כִּי אַזְכִּֽירָה. \
+  [וְקִינוֹת אָעִֽירָה, \
+ יַעַן כִּי אַזְכִּֽירָה. \
 בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [And I shall awaken lamentations, because I shall remember. \
+  [And I shall awaken lamentations, \
+ because I shall remember. \
 When I went out of Jerusalem:]
 )
 #linear_translation(
-  [אָז יָֽשִׁיר מֹשֶׁה, שִׁיר לֹא יִנָּשֶׁה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Then Moses sang, a song that shall not be forgotten, when I went out of Egypt:]
+  [אָז יָֽשִׁיר מֹשֶׁה, \
+ שִׁיר לֹא יִנָּשֶׁה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Then Moses sang, \
+ a song that shall not be forgotten, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וַיְקוֹנֵן יִרְמְיָה, וְנָהָה נְהִי נִֽהְיָה, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [And Jeremiah lamented, and wailed a mournful wail, when I went out of Jerusalem:]
+  [וַיְקוֹנֵן יִרְמְיָה, \
+ וְנָהָה נְהִי נִֽהְיָה, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [And Jeremiah lamented, \
+ and wailed a mournful wail, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [בֵּיתִי הִתְכּוֹנָן, וְשָׁכַן הֶֽעָנָן, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [My house was established, and the cloud dwelt there, when I went out of Egypt:]
+  [בֵּיתִי הִתְכּוֹנָן, \
+ וְשָׁכַן הֶֽעָנָן, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [My house was established, \
+ and the cloud dwelt there, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וַחֲמַת אֵל שָֽׁכְנָה, עָלַי כַּֽעֲנָנָה, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [And the wrath of God dwelt upon me like a cloud, when I went out of Jerusalem:]
+  [וַחֲמַת אֵל שָֽׁכְנָה, \
+ עָלַי כַּֽעֲנָנָה, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [And the wrath of God dwelt \
+  upon me like a cloud, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [גַּלֵּי יָם הָמוּ, וְכַֽחוֹמָה קָֽמוּ, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The waves of the sea roared, and stood up like a wall, when I went out of Egypt:]
+  [גַּלֵּי יָם הָמוּ, \
+ וְכַֽחוֹמָה קָֽמוּ, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The waves of the sea roared, \
+ and stood up like a wall, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [מַֽיִם שָׁטְפוּ, עֲלֵי רֹאשִׁי צָֽפוּ, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Waters overflowed, and floated over my head, when I went out of Jerusalem:]
+  [מַֽיִם שָׁטְפוּ, \
+ עֲלֵי רֹאשִׁי צָֽפוּ, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Waters overflowed, \
+ and floated over my head, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [דָּגָן מִשָּׁמַֽיִם, וְצוּר יָזוּב מַֽיִם, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Grain from heaven, and the Rock flowed with water, when I went out of Egypt:]
+  [דָּגָן מִשָּׁמַֽיִם, \
+ וְצוּר יָזוּב מַֽיִם, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Grain from heaven, \
+ and the Rock flowed with water, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [לַֽעֲנָה וְתַמְרוּרִים, וּמַֽיִם הַמָּרִים, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Wormwood and bitterness, and the bitter waters, when I went out of Jerusalem:]
+  [לַֽעֲנָה וְתַמְרוּרִים, \
+ וּמַֽיִם הַמָּרִים, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Wormwood and bitterness, \
+ and the bitter waters, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [הַשְׁכֵּם וְהַֽעֲרֵב, סְבִיבוֹת הַר חוֹרֵב, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Rising early and staying late, around Mount Horeb, when I went out of Egypt:]
+  [הַשְׁכֵּם וְהַֽעֲרֵב, \
+ סְבִיבוֹת הַר חוֹרֵב, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Rising early and staying late, \
+ around Mount Horeb, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [קָרָא אֶל אֵֽבֶל, עַל נַֽהֲרוֹת בָּבֶל, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [He called to mourning, by the rivers of Babylon, when I went out of Jerusalem:]
+  [קָרָא אֶל אֵֽבֶל, \
+ עַל נַֽהֲרוֹת בָּבֶל, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [He called to mourning, \
+ by the rivers of Babylon, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [וּמַרְאֵה כְּבוֹד אֲדֹנָי, כְּאֵשׁ אוֹכֶֽלֶת לְפָנַי, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [And the appearance of the glory of the Lord was like a consuming fire before me, when I went out of Egypt:]
+  [וּמַרְאֵה כְּבוֹד אֲדֹנָי, \
+ כְּאֵשׁ אוֹכֶֽלֶת לְפָנַי, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [And the appearance of the glory of the Lord \
+  was like a consuming fire before me, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וְחֶֽרֶב לְטוּשָׁה, לַטֶּֽבַח נְטוּשָׁה, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [And a sharpened sword, abandoned for the slaughter, when I went out of Jerusalem:]
+  [וְחֶֽרֶב לְטוּשָׁה, \
+ לַטֶּֽבַח נְטוּשָׁה, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [And a sharpened sword, \
+ abandoned for the slaughter, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [זֶֽבַח וּמִנְחָה, וְשֶֽׁמֶן הַמִּשְׁחָה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Sacrifice and offering, and the anointing oil, when I went out of Egypt:]
+  [זֶֽבַח וּמִנְחָה, \
+ וְשֶֽׁמֶן הַמִּשְׁחָה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Sacrifice and offering, \
+ and the anointing oil, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [סְגֻלָּה לְקוּחָה, כַּצֹּאן לְטִבְחָה, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [The chosen treasure taken like sheep for the slaughter, when I went out of Jerusalem:]
+  [סְגֻלָּה לְקוּחָה, \
+ כַּצֹּאן לְטִבְחָה, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [The chosen treasure taken \
+  like sheep for the slaughter, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [חַגִּים וְשַׁבָּתוֹת, וּמוֹפְתִים וְאוֹתוֹת, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Festivals and Sabbaths, and wonders and signs, when I went out of Egypt:]
+  [חַגִּים וְשַׁבָּתוֹת, \
+ וּמוֹפְתִים וְאוֹתוֹת, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Festivals and Sabbaths, \
+ and wonders and signs, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [תַּֽעֲנִית וְאֵֽבֶל, וּרְדוֹף הַהֶֽבֶל, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Fasting and mourning, and the pursuit of vanity, when I went out of Jerusalem:]
+  [תַּֽעֲנִית וְאֵֽבֶל, \
+ וּרְדוֹף הַהֶֽבֶל, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Fasting and mourning, \
+ and the pursuit of vanity, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [טוֹבוּ אוֹהָלִים, לְאַרְבַּע הַדְּגָלִים, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [How goodly were the tents for the four banners, when I went out of Egypt:]
+  [טוֹבוּ אוֹהָלִים, \
+ לְאַרְבַּע הַדְּגָלִים, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [How goodly were the tents, \
+  for the four banners, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [אָֽהֳלֵי יִשְׁמְעֵאלִים, וּמַֽחֲנוֹת הַזָּרִים, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [The tents of Ishmaelites, and the camps of strangers, when I went out of Jerusalem:]
+  [אָֽהֳלֵי יִשְׁמְעֵאלִים, \
+ וּמַֽחֲנוֹת הַזָּרִים, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [The tents of Ishmaelites, \
+ and the camps of strangers, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [יוֹבֵל וּשְׁמִטָּה, וְאֶֽרֶץ שֽׁוֹקֵטָה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The Jubilee and Sabbatical years, and a tranquil land, when I went out of Egypt:]
+  [יוֹבֵל וּשְׁמִטָּה, \
+ וְאֶֽרֶץ שֽׁוֹקֵטָה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The Jubilee and Sabbatical years, \
+ and a tranquil land, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [מָכוֹר לִצְמִיתוּת, וְכָרוֹת לִכְרִיתוּת, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Sold forever, and cut off to be severed, when I went out of Jerusalem:]
+  [מָכוֹר לִצְמִיתוּת, \
+ וְכָרוֹת לִכְרִיתוּת, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Sold forever, \
+ and cut off to be severed, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [כַּפֹּֽרֶת וְאָרוֹן, וְאַבְנֵי זִכָּרוֹן, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The cover and the Ark, and the stones of remembrance, when I went out of Egypt:]
+  [כַּפֹּֽרֶת וְאָרוֹן, \
+ וְאַבְנֵי זִכָּרוֹן, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The cover and the Ark, \
+ and the stones of remembrance, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וְאַבְנֵי הַקָּלַע, וּכְלֵי הַבָּלַע, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [And the stones of the sling, and the weapons of destruction, when I went out of Jerusalem:]
+  [וְאַבְנֵי הַקָּלַע, \
+ וּכְלֵי הַבָּלַע, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [And the stones of the sling, \
+ and the weapons of destruction, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [לְוִיִּם וְכֹהֲנִים, וְשִׁבְעִים זְקֵנִים, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Levites and Priests, and seventy elders, when I went out of Egypt:]
+  [לְוִיִּם וְכֹהֲנִים, \
+ וְשִׁבְעִים זְקֵנִים, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Levites and Priests, \
+ and seventy elders, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [נֽוֹגְשִׂים וּמוֹנִים, וּמֽוֹכְרִים וְקוֹנִים, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Oppressors and counters, and sellers and buyers, when I went out of Jerusalem:]
+  [נֽוֹגְשִׂים וּמוֹנִים, \
+ וּמֽוֹכְרִים וְקוֹנִים, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Oppressors and counters, \
+ and sellers and buyers, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [מֹשֶׁה יַרְעֵֽנִי, אַהֲרֹן יַנְחֵֽנִי, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Moses would shepherd me, Aaron would lead me, when I went out of Egypt:]
+  [מֹשֶׁה יַרְעֵֽנִי, \
+ אַהֲרֹן יַנְחֵֽנִי, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Moses would shepherd me, \
+ Aaron would lead me, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וּנְבוּכַדְנֶצַּר, וְאַדְרִיאָנוֹס קֵיסַר, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [But Nebuchadnezzar and Emperor Hadrian [led me], when I went out of Jerusalem:]
+  [וּנְבוּכַדְנֶצַּר, \
+ וְאַדְרִיאָנוֹס קֵיסַר, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [But Nebuchadnezzar \
+  and Emperor Hadrian [led me], \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [נַעֲרוֹךְ מִלְחָמָה, וַיהֹוָה שָֽׁמָּה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [We would set up for war, and the Lord was there, when I went out of Egypt:]
+  [נַעֲרוֹךְ מִלְחָמָה, \
+ וַיהֹוָה שָֽׁמָּה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [We would set up for war, \
+ and the Lord was there, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [רָחַק מִמֶּֽנּוּ, וְהִנֵּה אֵינֶֽנּוּ, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [He distanced Himself from us, and behold, He is not there, when I went out of Jerusalem:]
+  [רָחַק מִמֶּֽנּוּ, \
+ וְהִנֵּה אֵינֶֽנּוּ, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [He distanced Himself from us, \
+  and behold, He is not there, \
+  when I went out of Jerusalem:]
 )
 #linear_translation(
-  [סִתְרֵי פָרֹֽכֶת, וְסִדְרֵי מַעֲרֶֽכֶת, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The secrets of the curtain, and the orders of the arrangement, when I went out of Egypt:]
+  [סִתְרֵי פָרֹֽכֶת, \
+ וְסִדְרֵי מַעֲרֶֽכֶת, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The secrets of the curtain, \
+ and the orders of the arrangement, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וְחֵמָה נִתֶּֽכֶת, עָלַי סוֹכֶֽכֶת. \
+  [וְחֵמָה נִתֶּֽכֶת, \
+ עָלַי סוֹכֶֽכֶת. \
 בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [But wrath is poured out, covering me. \
+  [But wrath is poured out, \
+ covering me. \
 When I went out of Jerusalem:]
 )
 #linear_translation(
-  [עוֹלוֹת וּזְבָחִים, וְאִשֵּׁי נִיחוֹחִים, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Burnt offerings and sacrifices, and pleasing fire-offerings, when I went out of Egypt:]
+  [עוֹלוֹת וּזְבָחִים, \
+ וְאִשֵּׁי נִיחוֹחִים, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Burnt offerings and sacrifices, \
+ and pleasing fire-offerings, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [בַּחֶֽרֶב מְדֻקָּרִים, בְּנֵי צִיּוֹן הַיְקָרִים, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [The precious sons of Zion are pierced by the sword, when I went out of Jerusalem:]
+  [בַּחֶֽרֶב מְדֻקָּרִים, \
+ בְּנֵי צִיּוֹן הַיְקָרִים, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [By the sword they are pierced, \
+  The precious sons of Zion, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [פַּֽאֲרֵי מִגְבָּעוֹת, לְכָבוֹד נִקְבָּעוֹת, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The glory of the turbans set for honor, when I went out of Egypt:]
+  [פַּֽאֲרֵי מִגְבָּעוֹת, \
+ לְכָבוֹד נִקְבָּעוֹת, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The glory of the turbans \
+  set for honor, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [שְׁרִיקוֹת וּתְרוּעוֹת, לְקָלוֹן וּזְוָעוֹת, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Hissings and alarms for shame and horrors, when I went out of Jerusalem:]
+  [שְׁרִיקוֹת וּתְרוּעוֹת, \
+ לְקָלוֹן וּזְוָעוֹת, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Hissings and alarms \
+  for shame and horrors, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [צִיצַת הַזָּהָב, וְהֶמְשֵׁל וָרַֽהַב, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The golden plate, and dominion and pride, when I went out of Egypt:]
+  [צִיצַת הַזָּהָב, \
+ וְהֶמְשֵׁל וָרַֽהַב, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The golden plate, \
+ and dominion and pride, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [אָפֵס הָעֵֽזֶר, וְהֻשְׁלַךְ הַנֶּֽזֶר, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Help has ceased, and the crown was cast down, when I went out of Jerusalem:]
+  [אָפֵס הָעֵֽזֶר, \
+ וְהֻשְׁלַךְ הַנֶּֽזֶר, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Help has ceased, \
+ and the crown was cast down, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [קְדֻשָּׁה וּנְבוּאָה, וּשְׁכִינָה נֽוֹרָאָה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Holiness and prophecy, and the awesome Divine Presence, when I went out of Egypt:]
+  [קְדֻשָּׁה וּנְבוּאָה, \
+ וּשְׁכִינָה נֽוֹרָאָה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Holiness and prophecy, \
+ and the awesome Divine Presence, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [מְגוֹאֲלָה וּמוֹרָאָה, וְרֽוּחַ הַטֻּמְאָה, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [Defiled and feared, and the spirit of impurity, when I went out of Jerusalem:]
+  [מְגוֹאֲלָה וּמוֹרָאָה, \
+ וְרֽוּחַ הַטֻּמְאָה, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [Defiled and feared, \
+ and the spirit of impurity, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [רִנָּה וִישׁוּעָה, וַֽחֲצֽוֹצְרוֹת תְּרוּעָה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Joy and salvation, and the sounding of trumpets, when I went out of Egypt:]
+  [רִנָּה וִישׁוּעָה, \
+ וַֽחֲצֽוֹצְרוֹת תְּרוּעָה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Joy and salvation, \
+ and the sounding of trumpets, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וְזַֽעֲקַת עוֹלָל, עִם נַֽאֲקַת חָלָל, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [But the cry of an infant with the groan of the slain, when I went out of Jerusalem:]
+  [וְזַֽעֲקַת עוֹלָל, \
+ עִם נַֽאֲקַת חָלָל, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [But the cry of an infant \
+  with the groan of the slain, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [שֻׁלְחָן וּמְנוֹרָה, וְכָלִיל וּקְטוֹרָה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [The table and the Menorah, and the whole-offering and incense, when I went out of Egypt:]
+  [שֻׁלְחָן וּמְנוֹרָה, \
+ וְכָלִיל וּקְטוֹרָה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [The table and the Menorah, \
+ and the whole-offering and incense, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וֶֽאֱלִיל וְתֽוֹעֵבָה, וּפֶֽסֶל וּמַצֵּבָה, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [But an idol and abomination, and an image and pillar, when I went out of Jerusalem:]
+  [וֶֽאֱלִיל וְתֽוֹעֵבָה, \
+ וּפֶֽסֶל וּמַצֵּבָה, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [But an idol and abomination, \
+ and an image and pillar, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [תּוֹרָה וּתְעוּדָה, וְסֵֽדֶר הָֽעֲבוֹדָה, בְּצֵאתִי מִמִּצְרַֽיִם:],
-  [Torah and testimony, and the order of the service, when I went out of Egypt:]
+  [תּוֹרָה וּתְעוּדָה, \
+ וְסֵֽדֶר הָֽעֲבוֹדָה, \
+ בְּצֵאתִי מִמִּצְרַֽיִם:],
+  [Torah and testimony, \
+ and the order of the service, \
+ when I went out of Egypt:]
 )
 #linear_translation(
-  [וְחֶסְרוֹן הַתַּלְמִיד, וּבִטּוּל הַתָּמִיד, בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
-  [But the absence of the student, and the cancellation of the daily offering, when I went out of Jerusalem:]
+  [וְחֶסְרוֹן הַתַּלְמִיד, \
+ וּבִטּוּל הַתָּמִיד, \
+ בְּצֵאתִי מִירֽוּשָׁלַֽיִם:],
+  [But the absence of the student, \
+ and the cancellation of the daily offering, \
+ when I went out of Jerusalem:]
 )
 #linear_translation(
-  [(אֵל אֱלֹהֵי הַצְּבָאוֹת, יַרְאֵֽנִי נִפְלָאוֹת. \
+  [(אֵל אֱלֹהֵי הַצְּבָאוֹת, \
+ יַרְאֵֽנִי נִפְלָאוֹת. \
 כְּבְצֵאתִי מִמִּצְרַֽיִם:],
-  [(O God, Lord of Hosts, show me wonders. \
+  [(O God, Lord of Hosts,\
+  show me wonders. \
 As when I went out of Egypt:]
 )
 #linear_translation(
-  [וְיָשִׁיב שְׁכִינָתוֹ, אֶל צִיּוֹן וַעֲבֽוֹדָתוֹ. \
+  [וְיָשִׁיב שְׁכִינָתוֹ, \
+ אֶל צִיּוֹן וַעֲבֽוֹדָתוֹ. \
 אֶל תּוֹךְ יְרֽוּשָׁלַֽיִם:)],
-  [And may He return His Presence to Zion and His service. \
+  [And may He return His Presence \
+  to Zion and His service. \
 Into the midst of Jerusalem:)]
 )
