@@ -145,11 +145,13 @@
   tefilat_yesharim:[122],
 )
 #include "scripture_translated/Haazinu.typst"
+#hrule
+
+Tefillat Arvit is said through the end of the Amidah, Yehi Shem, and Chatzi Kaddish.
 
 #hrule
 = After Arvit Shemoneh Esreh
 
-#hrule
 #siddur_grid(
   or_vaderech:[220],
   tefilat_yesharim:[139],
@@ -173,8 +175,6 @@
 #include "scripture_translated/Eichah_4.typst"
 === Chapter 5
 #include "scripture_translated/Eichah_5.typst"
-
-
 
 
 #hrule
@@ -289,7 +289,11 @@ Many congregations end this kinah here.
 #include "kinot_translated/29_Al_Heichali_Chevli.typst"
 ]}
 
+
 #hrule
+The tefillah continues with v'Ata Kadosh
+#hrule
+
 #siddur_grid(
   or_vaderech:[246],
   tefilat_yesharim:[149],
@@ -303,6 +307,9 @@ Many congregations end this kinah here.
   tefilat_yesharim:[155],
 )
 #include "kinot_translated/26_Ad_Ana_Bichya_BeTzion.typst"
+#hrule
+
+The tefillah continues with Kaddish Yehe Shlama, Barechu, and Aleinu.
 
 #pagebreak()
 
