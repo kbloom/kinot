@@ -140,6 +140,7 @@
 #include "scripture_translated/Al_Neharot_Bavel.typst"
 
 == Haazinu
+
 #siddur_grid(
   or_vaderech:[197],
   tefilat_yesharim:[122],
@@ -646,3 +647,11 @@ Kaddish Titkabal is said.
 #hrule
 
 Kiddish Yehe Shalama is said, followed by Aleinu.
+
+#pagebreak()
+
+The translations of the Torah readings and Haazinu are from the Metsudah Chumash, Metsudah Publications, 2009.
+Under the CC BY 3.0 license. The terms of the licence are at https://creativecommons.org/licenses/by/3.0/
+
+The translation of Megillat Eicha is from The Metsudah Five Megillot, Metsudah Publications, 2001.
+Under the CC BY 3.0 license. The terms of the licence are at https://creativecommons.org/licenses/by/3.0/
