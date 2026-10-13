@@ -135,6 +135,11 @@ Under the CC BY 3.0 license. The terms of the licence are at https://creativecom
 
 #outline(depth:2)
 
+= Shemoneh Esreh for Tisha b'Av
+
+#include "kinot_translated/Shemoneh_Esreh.typst"
+#hrule
+
 = Before Arvit
 
 #siddur_grid(
