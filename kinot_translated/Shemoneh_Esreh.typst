@@ -1,0 +1,587 @@
+#import "../utils.typst": linear_translation
+
+#linear_translation(
+  [אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח \
+וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ׃],
+  [My Master, open my lips, \
+and my mouth shall declare Your praise.]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יְהֹוָה, אֱלֹהֵֽינוּ וֵֽאלֹהֵי אֲבוֹתֵֽינוּ, \
+אֱלֹהֵי אַבְרָהָם, אֱלֹהֵי יִצְחָק, וֵֽאלֹהֵי יַעֲקֹב.],
+  [Blessed are You, Adonoy, our God and God of our fathers, \
+God of Avraham, God of Yitzchok, and God of Yaakov.]
+)
+
+#linear_translation(
+  [הָאֵל הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא, אֵל עֶלְיוֹן, \
+גּוֹמֵל חֲסָדִים טוֹבִים, קוֹנֵה הַכֹּל, \
+וְזוֹכֵר חַסְדֵּי אָבוֹת, \
+וּמֵבִיא גוֹאֵל לִבְנֵי בְנֵיהֶם לְמַֽעַן שְׁמוֹ בְּאַֽהֲבָה:],
+  [The great, mighty, and awesome God, Supreme God, \
+Who bestows benevolent kindnesses, Possessor of all, \
+Who remembers the kindness of the patriarchs, \
+and brings a Redeemer to their children's children for His Name's sake with love:]
+)
+
+#linear_translation(
+  [מֶֽלֶךְ עוֹזֵר וּמוֹשִֽׁיעַ וּמָגֵן:],
+  [King, Helper, Savior, and Shield:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יַהַוַהַ, מָגֵן אַבְרָהָם:],
+  [Blessed are You, Adonoy, Shield of Avraham:]
+)
+
+#linear_translation(
+  [אַתָּה גִבּוֹר לְעוֹלָם אֲדֹנָי, \
+מְחַיֶּה מֵתִים אַתָּה, רַב לְהוֹשִֽׁיעַ.],
+  [You are eternally mighty, My Master, \
+You revive the dead, abundant in salvation.]
+)
+
+#linear_translation(
+  [מוֹרִיד הַטָּל.],
+  [Who causes the dew to descend.]
+)
+
+#linear_translation(
+  [מְכַלְכֵּל חַיִּים בְּחֶֽסֶד, \
+מְחַיֵּה מֵתִים בְּרַֽחֲמִים רַבִּים, \
+סוֹמֵךְ נֽוֹפְלִים, וְרוֹפֵא חוֹלִים, וּמַתִּיר אֲסוּרִים, \
+וּמְקַיֵּם אֱמֽוּנָתוֹ לִֽישֵׁנֵי עָפָר.],
+  [Who sustains the living with kindness, \
+revives the dead with abundant mercy, \
+supports the fallen, heals the sick, frees the bound, \
+and maintains His faithfulness to those who sleep in the dust.]
+)
+
+#linear_translation(
+  [מִי כָמֽוֹךָ בַּֽעַל גְּבוּרוֹת, וּמִי דֽוֹמֶה לָךְ, \
+מֶֽלֶךְ מֵמִית וּמְחַיֶּה וּמַצְמִֽיחַ יְשׁוּעָה],
+  [Who is like You, Master of mighty deeds, and who resembles You, \
+King Who causes death and restores life and causes salvation to sprout,]
+)
+
+#linear_translation(
+  [וְנֶֽאֱמָן אַתָּה לְהַֽחֲיוֹת מֵתִים:],
+  [and You are faithful to revive the dead:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֵהֵוֵהֵ, מְחַיֵּה הַמֵּתִים:],
+  [Blessed are You, Adonoy, Who revives the dead:]
+)
+
+#linear_translation(
+  [אַתָּה קָדוֹשׁ וְשִׁמְךָ קָדוֹשׁ, \
+וּקְדוֹשִׁים בְּכָל־יוֹם יְהַֽלְלֽוּךָ סֶּֽלָה:],
+  [You are holy and Your Name is holy, \
+and holy beings praise You every day, selah:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֹהֵוָהֵ, הָאֵל הַקָּדוֹשׁ:],
+  [Blessed are You, Adonoy, the holy God:]
+)
+
+#linear_translation(
+  [אַתָּה חוֹנֵן לְאָדָם דַּֽעַת \
+וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה.],
+  [You graciously bestow knowledge upon man, \
+and teach mortal man understanding.]
+)
+
+#linear_translation(
+  [וְחָנֵּֽנוּ מֵאִתְּךָ חָכְמָה בִּינָה וָדָֽעַת:],
+  [Graciously grant us from You wisdom, understanding, and knowledge:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יַהַוַהַ, חוֹנֵן הַדָּֽעַת:],
+  [Blessed are You, Adonoy, Who graciously bestows knowledge:]
+)
+
+#linear_translation(
+  [הֲשִׁיבֵֽנוּ אָבִֽינוּ לְתֽוֹרָתֶֽךָ, \
+וְקָֽרְבֵֽנוּ מַלְכֵּֽנוּ לַֽעֲבֽוֹדָתֶֽךָ, \
+וְהַֽחֲזִירֵֽנוּ בִּתְשׁוּבָה שְׁלֵמָה לְפָנֶֽיךָ:],
+  [Return us, our Father, to Your Torah, \
+and draw us near, our King, to Your service, \
+and bring us back in complete repentance before You:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֵהֵוֵהֵ, הָרוֹצֶה בִּתְשׁוּבָה:],
+  [Blessed are You, Adonoy, Who desires repentance:]
+)
+
+#linear_translation(
+  [סְלַח לָֽנוּ אָבִֽינוּ כִּי חָטָֽאנוּ, \
+מְחוֹל לָֽנוּ מַלְכֵּֽנוּ כִּי פָשָֽׁעְנוּ, \
+כִּי אֵל טוֹב וְסַלָּח אָֽתָּה:],
+  [Forgive us, our Father, for we have sinned; \
+pardon us, our King, for we have transgressed, \
+for a good and forgiving God are You:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֶהֶוֶהֶ, חַנּוּן הַמַּרְבֶּה לִסְלֹחַ:],
+  [Blessed are You, Adonoy, gracious One Who abundantly forgives:]
+)
+
+#linear_translation(
+  [רְאֵה נָא בְעָנְיֵֽנוּ, וְרִיבָֽה רִיבֵֽנוּ, \
+וּמַהֵר לְגָאֳלֵֽנוּ גְאוּלָּה שְׁלֵמָה לְמַֽעַן שְׁמֶֽךָ, \
+כִּי אֵל גּוֹאֵל חָזָק אָֽתָּה:],
+  [Look, please, upon our affliction, and champion our cause, \
+and hasten to redeem us with a complete redemption for Your Name's sake, \
+for a mighty Redeemer are You:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יְהְוְהְ, גּוֹאֵל יִשְׂרָאֵל:],
+  [Blessed are You, Adonoy, Redeemer of Yisrael:]
+)
+
+#linear_translation(
+  [רְפָאֵֽנוּ יְהֹוָה וְנֵֽרָפֵא, \
+הֽוֹשִׁיעֵֽנוּ וְנִוָּשֵֽׁעָה, כִּי תְהִלָּתֵֽנוּ אָֽתָּה, \
+וְהַֽעֲלֵה אֲרוּכָה וּמַרְפֵּא לְכָל־תַּֽחֲלוּאֵֽינוּ וּלְכָל־מַכְאוֹבֵֽינוּ וּלְכָל־מַכּוֹתֵֽינוּ.],
+  [Heal us, Adonoy, and we shall be healed; \
+save us and we shall be saved, for You are our praise; \
+and bring complete healing and a cure to all our illnesses, all our pains, and all our wounds.]
+)
+
+#linear_translation(
+  [כִּי אֵל רוֹפֵא רַחְמָן וְנֶֽאֱמָן אָֽתָּה:],
+  [For a compassionate and faithful physician God are You:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֹהֹוֹהֹ, רוֹפֵא חוֹלֵי עַמּוֹ יִשְׂרָאֵל:],
+  [Blessed are You, Adonoy, Who heals the sick of His people Yisrael:]
+)
+
+#linear_translation(
+  [בָּֽרְכֵֽנוּ יְהֹוָה אֱלֹהֵֽינוּ בְּכָל־מַֽעֲשֵׂי יָדֵֽינוּ, \
+וּבָרֵךְ שְׁנָתֵֽנוּ בְּטַֽלְלֵי רָצוֹן בְּרָכָה וּנְדָבָה, \
+וּתְהִי אַֽחֲרִיתָהּ חַיִּים וְשָׂבָע וְשָׁלוֹם כַּשָּׁנִים הַטּוֹבוֹת לִבְרָכָה, \
+כִּי אֵל טוֹב וּמֵטִיב אַתָּה וּמְבָרֵךְ הַשָּׁנִים:],
+  [Bless us, Adonoy our God, in all the deeds of our hands, \
+and bless our year with dews of favor, blessing, and generosity; \
+and may its end be life, abundance, and peace like the good years for blessing, \
+for a good and beneficent God are You, and Who blesses the years:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יִהִוִהִ, מְבָרֵךְ הַשָּׁנִים:],
+  [Blessed are You, Adonoy, Who blesses the years:]
+)
+
+#linear_translation(
+  [תְּקַע בְּשׁוֹפָר גָּדוֹל לְחֵֽרוּתֵֽנוּ, \
+וְשָׂא נֵס לְקַבֵּץ גָּֽלֻיּוֹתֵֽינוּ, \
+וְקַבְּצֵֽנוּ יַֽחַד מֵאַרְבַּע כַּנְפוֹת הָאָֽרֶץ לְאַרְצֵֽנוּ:],
+  [Sound the great shofar for our freedom, \
+and raise a banner to gather our exiles, \
+and gather us together from the four corners of the earth to our land:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֻהֻוֻהֻ, מְקַבֵּץ נִדְחֵי עַמּוֹ יִשְׂרָאֵל:],
+  [Blessed are You, Adonoy, Who gathers the dispersed of His people Yisrael:]
+)
+
+#linear_translation(
+  [הָשִֽׁיבָה שֽׁוֹפְטֵֽינוּ כְּבָרִֽאשׁוֹנָה, \
+וְיֽוֹעֲצֵֽינוּ כְּבַתְּחִלָּה, \
+וְהָסֵר מִמֶּֽנּוּ יָגוֹן וַֽאֲנָחָה.],
+  [Restore our judges as of old, \
+and our counselors as in the beginning, \
+and remove from us sorrow and sighing.]
+)
+
+#linear_translation(
+  [וּמְלוֹךְ עָלֵֽינוּ מְהֵרָה אַתָּה יְהֹוָה לְבַדְּךָ, \
+בְּחֶֽסֶד וּבְרַֽחֲמִים, בְּצֶֽדֶק וּבְמִשְׁפָּט:],
+  [And reign over us speedily You, Adonoy, alone, \
+in kindness and in mercy, in righteousness and in justice:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יוּהוּווּהוּ, מֶֽלֶךְ אוֹהֵב צְדָקָה וּמִשְׁפָּט:],
+  [Blessed are You, Adonoy, King Who loves righteousness and justice:]
+)
+
+#linear_translation(
+  [לַמִּינִים וְלַמַּלְשִׁינִים אַל־תְּהִי תִקְוָה, \
+וְכָל־הַזֵּדִים כְּרֶֽגַע יֹאבֵֽדוּ, \
+וְכָל־אֽוֹיְבֶֽיךָ וְכָל־שֽׂוֹנְאֶֽיךָ מְהֵרָה יִכָּרֵֽתוּ, \
+וּמַלְכוּת הָֽרִשְׁעָה מְהֵרָה תְעַקֵּר וּתְשַׁבֵּר וּתְכַלֵּם וְתַכְנִיעֵם בִּמְהֵרָה בְיָמֵֽינוּ:],
+  [For the heretics and the slanderers let there be no hope, \
+and may all the wicked perish in an instant, \
+and may all Your enemies and all Your foes be speedily cut off, \
+and the kingdom of wickedness may You speedily uproot, smash, destroy, and humble speedily in our days:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יָהָוָהָ, שׁוֹבֵר אוֹיְבִים וּמַכְנִֽיעַ מִינִים:],
+  [Blessed are You, Adonoy, Who breaks enemies and humbles heretics:]
+)
+
+#linear_translation(
+  [עַל הַצַּדִּיקִים וְעַל הַֽחֲסִידִים, \
+וְעַל שְׁאֵרִית עַמְּךָ בֵּית יִשְׂרָאֵל, \
+וְעַל פְּלֵיטַת בֵּית סֽוֹפְרֵיהֶם, \
+וְעַל גֵּרֵי הַצֶּֽדֶק וְעָלֵֽינוּ, \
+יֶֽהֱמוּ נָא רַֽחֲמֶֽיךָ, יְהֹוָה אֱלֹהֵֽינוּ,],
+  [Upon the righteous and upon the pious, \
+and upon the remnant of Your people the House of Yisrael, \
+and upon the remnant of their scholars, \
+and upon the righteous converts and upon us, \
+may Your mercies please be stirred, Adonoy our God,]
+)
+
+#linear_translation(
+  [וְתֵן שָׂכָר טוֹב לְכָל־הַבּֽוֹטְחִים בְּשִׁמְךָ בֶּֽאֱמֶת, \
+וְשִׂים חֶלְקֵֽנוּ עִמָּהֶם.],
+  [and grant a good reward to all who truly trust in Your Name, \
+and place our lot with them.]
+)
+
+#linear_translation(
+  [וּלְעוֹלָם לֹא נֵבוֹשׁ כִּי בְךָ בָטָֽחְנוּ, \
+וְעַל חַסְדְּךָ הַגָּדוֹל בֶּֽאֱמֶת נִשְׁעָֽנְנוּ:],
+  [And may we never be shamed, for in You we have trusted, \
+and upon Your great kindness we have truly relied:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יוּהוּווּהוּ, מִשְׁעָן וּמִבְטָח לַצַּדִּיקִים:],
+  [Blessed are You, Adonoy, Support and Assurance of the righteous:]
+)
+
+#linear_translation(
+  [תִּשְׁכּוֹן בְּתוֹךְ יְרוּשָׁלַֽיִם עִֽירְךָ כַּאֲשֶׁר דִּבַּֽרְתָּ, \
+וְכִסֵּא דָוִד עַבְדְּךָ מְהֵרָה בְּתוֹכָהּ תָּכִין, \
+וּבְנֵה אוֹתָהּ בִּנְיַן עוֹלָם בִּמְהֵרָה בְיָמֵֽינוּ:],
+  [Dwell within Jerusalem Your city as You spoke, \
+and the throne of David Your servant speedily establish in its midst, \
+and rebuild it as an everlasting structure speedily in our days:]
+)
+
+#linear_translation(
+  [נַחֵם יְהֹוָה אֱלֹהֵֽינוּ אֶת אֲבֵלֵי צִיּוֹן וְאֶת אֲבֵלֵי יְרוּשָׁלַיִם, \
+וְאֶת הָעִיר הַחֲרֵבָה וְהַבְּזוּיָה, וְהַשּׁוֹמֵמָה, \
+מִבְּלִי בָנֶֽיהָ הִיא יוֹשֶׁבֶת, \
+וְרֹאשָׁהּ חָפוּי כְּאִשָּׁה עֲקָרָה שֶׁלֹא יָלָֽדָה.],
+  [Comfort, Adonoy our God, the mourners of Tzion and the mourners of Yerushalayim, \
+and the city that is ruined, despised, and desolate; \
+bereft of her children she sits, \
+and her head is covered like a barren woman who has never given birth.]
+)
+
+#linear_translation(
+  [וַיְבַלְּעוּהָ לִגְיוֹנִים וַיִּירָשֽׁוּהָ, \
+וַיַּטִּֽילוּ אֶת עַמְּךָ יִשְׂרָאֵל לַחֶֽרֶב, \
+וַיַּהַרְגוּ בְזָדוֹן חֲסִידֵי עֶלְיוֹן.],
+  [Legions have swallowed her up and taken possession of her, \
+and cast Your people Yisrael to the sword, \
+and willfully slaughtered the pious ones of the Most High.]
+)
+
+#linear_translation(
+  [עַל־כֵּן צִיּוֹן בְּמֶֽרֶר תִּבְכֶּה, וִירֽוּשָׁלַֽיִם תִּתֵּן קוֹלָהּ: \
+לִבִּי לִבִּי עַל חַלְלֵיהֶם, מֵעַי מֵעַי עַל הֲרוּגֵיהֶם:],
+  [Therefore Tzion weeps with bitterness, and Yerushalayim raises her voice: \
+"My heart, my heart goes out for their slain! My innards, my innards for their slaughtered!"]
+)
+
+#linear_translation(
+  [כִּי אַתָּה יְהֹוָה בָּאֵשׁ הֵצַתָּהּ, \
+וּבָאֵשׁ אַתָּה עָתִיד לִבְנוֹתָהּ, \
+כַּכָּתוּב: וַאֲנִ֤י אֶֽהְיֶה־לָּהּ֙ נְאֻם־יְהֹוָ֔ה ח֥וֹמַת אֵ֖שׁ סָבִ֑יב וּלְכָב֖וֹד אֶֽהְיֶ֥ה בְתוֹכָֽהּ׃],
+  [For You, Adonoy, ignited it with fire, \
+and with fire You are destined to rebuild it, \
+as it is written: "And I will be to her, says Adonoy, a wall of fire all around, and for glory I will be in her midst."]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יְהֹוָה, מְנַחֵם צִיּוֹן בְּבִנְיַן יְרוּשָׁלַיִם:],
+  [Blessed are You, Adonoy, Who comforts Tzion through the rebuilding of Yerushalayim:]
+)
+
+#linear_translation(
+  [אֶת צֶֽמַח דָּוִד עַבְדְּךָ מְהֵרָה תַצְמִֽיחַ, \
+וְקַרְנוֹ תָּרוּם בִּישֽׁוּעָתֶֽךָ, \
+כִּי לִֽישׁוּעָֽתְךָ קִוִּֽינוּ כָּל־הַיּוֹם:],
+  [The offspring of David Your servant speedily cause to flourish, \
+and his pride raise through Your salvation, \
+for we hope for Your salvation all the day:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יִהִוִהִ, מַצְמִֽיחַ קֶֽרֶן יְשׁוּעָה:],
+  [Blessed are You, Adonoy, Who causes the pride of salvation to flourish:]
+)
+
+#linear_translation(
+  [שְׁמַע קוֹלֵֽנוּ, יְהֹוָה אֱלֹהֵֽינוּ, \
+אָב הָרַֽחֲמָן, רַחֵם עָלֵֽינוּ, \
+וְקַבֵּל בְּרַֽחֲמִים וּבְרָצוֹן אֶת־תְּפִלָּתֵֽנוּ, \
+כִּי אֵל שׁוֹמֵֽעַ תְּפִלּוֹת וְתַֽחֲנוּנִים אָֽתָּה.],
+  [Hear our voice, Adonoy our God, \
+compassionate Father, have mercy upon us, \
+and accept in mercy and favor our prayer, \
+for a God Who hears prayers and supplications are You.]
+)
+
+#linear_translation(
+  [וּמִלְּפָנֶֽיךָ מַלְכֵּֽנוּ, רֵיקָם אַל־תְּשִׁיבֵֽנוּ, \
+חָנֵּֽנוּ וַֽעֲנֵֽנוּ וּשְׁמַע תְּפִלָּתֵֽנוּ.],
+  [And from before You, our King, do not turn us away empty-handed; \
+favor us and answer us and hear our prayer.]
+)
+
+#linear_translation(
+  [עֲנֵנוּ אָבִינוּ עֲנֵנוּ בְּיוֹם צוֹם הַתַּֽעֲנִית הַזֶּה \
+כִּי בְצָרָה גְדוֹלָה אֲנָֽחְנוּ.],
+  [Answer us, our Father, answer us on this day of the fast, \
+for we are in great distress.]
+)
+
+#linear_translation(
+  [אַל־תֵּֽפֶן לְרִשְׁעֵֽנוּ, \
+וְאַל־תִּתְעַלָּם מַלְכֵּֽנוּ מִבַּקָּשָׁתֵֽנוּ. \
+הֱיֵה נָא קָרוֹב לְשַׁוְעָתֵֽנוּ.],
+  [Do not turn to our wickedness, \
+and do not hide Yourself, our King, from our supplication. \
+Please be close to our cry.]
+)
+
+#linear_translation(
+  [טֶֽרֶם נִקְרָא אֵלֶֽיךָ אַתָּה תַֽעֲנֶה, \
+נְדַבֵּר וְאַתָּה תִשְׁמַע, \
+כַּדָּבָר שֶׁנֶּאֱמַר: וְהָיָ֥ה טֶֽרֶם־יִקְרָ֖אוּ וַאֲנִ֣י אֶעֱנֶ֑ה ע֛וֹד הֵ֥ם מְדַבְּרִ֖ים וַאֲנִ֥י אֶשְׁמָֽע:],
+  [Before we call to You, You will answer; \
+we speak and You hear, \
+as the matter was stated: "And it shall be, before they call I will answer; while they are still speaking I will hear."]
+)
+
+#linear_translation(
+  [כִּי אַתָּה יְהֹוָה פּוֹדֶה וּמַצִּיל \
+וְעוֹנֶה וּמְרַחֵם בְּכָל־עֵת צָרָה וְצוּקָה.],
+  [For You, Adonoy, redeem and rescue, \
+and answer and have mercy in every time of distress and anguish.]
+)
+
+#linear_translation(
+  [כִּי אַתָּה שׁוֹמֵעַ תְּפִלַּת כָּל־פֶּה:],
+  [For You hear the prayer of every mouth:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֹהְוָה, שׁוֹמֵֽעַ תְּפִלָּה:],
+  [Blessed are You, Adonoy, Who hears prayer:]
+)
+
+#linear_translation(
+  [רְצֵה יְהֹוָה אֱלֹהֵֽינוּ בְּעַמְּךָ יִשְׂרָאֵל וְלִתְפִלָּתָם שְׁעֵה, \
+וְהָשֵׁב הָֽעֲבוֹדָה לִדְבִיר בֵּיתֶֽךָ,],
+  [Be pleased, Adonoy our God, with Your people Yisrael and turn to their prayer, \
+and restore the service to the Holy of Holies of Your House;]
+)
+
+#linear_translation(
+  [וְאִשֵּׁי יִשְׂרָאֵל וּתְפִלָּתָם, מְהֵרָה בְּאַֽהֲבָה תְקַבֵּל בְּרָצוֹן, \
+וּתְהִי לְרָצוֹן תָּמִיד עֲבוֹדַת יִשְׂרָאֵל עַמֶּֽךָ:],
+  [and the fire-offerings of Yisrael and their prayer speedily accept in love and favor, \
+and may the service of Your people Yisrael always be acceptable:]
+)
+
+#linear_translation(
+  [וְאַתָּה בְּרַֽחֲמֶֽיךָ הָרַבִּים, תַּחְפֹּץ בָּֽנוּ וְתִרְצֵֽנוּ, \
+וְתֶֽחֱזֶֽינָה עֵינֵֽינוּ בְּשֽׁוּבְךָ לְצִיּוֹן בְּרַֽחֲמִים:],
+  [And You, in Your abundant mercy, desire us and look favorably upon us, \
+and may our eyes behold Your return to Tzion in mercy:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יִהִוִהִ, הַמַּֽחֲזִיר שְׁכִֽינָתוֹ לְצִיּוֹן:],
+  [Blessed are You, Adonoy, Who returns His Divine Presence to Tzion:]
+)
+
+#linear_translation(
+  [מוֹדִים אֲנַחְנוּ לָךְ, \
+שֶׁאַתָּה הוּא יְהֹוָה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, אֱלֹהֵי כָל בָּשָׁר, \
+יוֹצְרֵנוּ יוֹצֵר בְּרֵאשִׁית.],
+  [We give thanks to You, \
+that You are Adonoy our God and God of our fathers, God of all flesh, \
+our Maker, Maker of all Creation.]
+)
+
+#linear_translation(
+  [בְּרָכוֹת וְהוֹדָאוֹת לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ, \
+עַל שֶׁהֶחֱיִיתָנוּ וְקִיַּמְתָּנוּ.],
+  [Blessings and thanksgivings to Your great and holy Name, \
+for having granted us life and sustained us.]
+)
+
+#linear_translation(
+  [כֵּן תְּחַיֵּנוּ וּתְחָנֵּנוּ \
+וְתֶאֱסוֹף גָּלֻיּוֹתֵינוּ לְחַצְרוֹת קָדְשֶׁךָ, \
+לִשְׁמֹר חֻקֶּיךָ וְלַעֲשׂוֹת רְצוֹנְךָ וּלְעָבְדְךָ בְלֵבָב שָׁלֵם, \
+עַל שֶׁאֲנַחְנוּ מוֹדִים לָךְ, בָּרוּךְ אֵל הַהוֹדָאוֹת.],
+  [So may You give us life and be gracious to us, \
+and gather our exiled to the courtyards of Your Sanctuary, \
+to keep Your statutes, to do Your will, and to serve You wholeheartedly, \
+for which we give thanks to You; blessed is the God of thanksgivings.]
+)
+
+#linear_translation(
+  [מוֹדִים אֲנַֽחְנוּ לָךְ, \
+שֶׁאַתָּה הוּא יְהֹוָה אֱלֹהֵֽינוּ וֵֽאלֹהֵי אֲבוֹתֵֽינוּ לְעוֹלָם וָעֶד, \
+צוּרֵֽנוּ צוּר חַיֵּֽינוּ וּמָגֵן יִשְׁעֵֽנוּ אַתָּה הוּא,],
+  [We give thanks to You, \
+that You are Adonoy our God and God of our fathers forever and ever; \
+You are our Rock, the Rock of our lives and Shield of our salvation,]
+)
+
+#linear_translation(
+  [לְדוֹר וָדוֹר נוֹדֶה לְךָ וּנְסַפֵּר תְּהִלָּתֶֽךָ, \
+עַל חַיֵּֽינוּ הַמְּסוּרִים בְּיָדֶֽךָ, \
+וְעַל נִשְׁמוֹתֵֽינוּ הַפְּקוּדוֹת לָךְ,],
+  [from generation to generation we thank You and recount Your praise, \
+for our lives entrusted into Your hand, \
+and for our souls deposited with You,]
+)
+
+#linear_translation(
+  [וְעַל נִסֶּֽיךָ שֶׁבְּכָל־יוֹם עִמָּֽנוּ, \
+וְעַל נִפְלְאוֹתֶֽיךָ וְטֽוֹבוֹתֶֽיךָ שֶׁבְּכָל־עֵת, \
+עֶֽרֶב וָבֹֽקֶר וְצָֽהֳרָֽיִם.],
+  [and for Your miracles that are with us daily, \
+and for Your wonders and Your goodness at all times, \
+evening, morning, and afternoon.]
+)
+
+#linear_translation(
+  [הַטּוֹב, כִּי לֹא כָלוּ רַחֲמֶֽיךָ, \
+הַמְּרַחֵם, כִּי לֹא תַֽמּוּ חֲסָדֶֽיךָ, \
+כִּי מֵֽעוֹלָם קִוִּֽינוּ לָךְ:],
+  [Beneficent One, for Your compassions never fail; \
+Compassionate One, for Your kindnesses never cease; \
+for from of old we have hoped in You:]
+)
+
+#linear_translation(
+  [וְעַל כֻּלָּם יִתְבָּרַךְ, וְיִתְרוֹמָם, וְיִתְנַשֵּׂא, תָּמִיד, \
+שִׁמְךָ מַלְכֵּֽנוּ, לְעוֹלָם וָעֶד. \
+וְכָל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה:],
+  [And for all of them, blessed, exalted, and extolled continually \
+be Your Name, our King, forever and ever. \
+And all living beings shall thank You, selah:]
+)
+
+#linear_translation(
+  [וִֽיהַֽלְלוּ וִֽיבָֽרְכוּ אֶת־שִׁמְךָ הַגָּדוֹל בֶּֽאֱמֶת לְעוֹלָם כִּי טוֹב, \
+הָאֵל יְשֽׁוּעָתֵֽנוּ וְעֶזְרָתֵֽנוּ סֶֽלָה, הָאֵל הַטּוֹב:],
+  [and they shall praise and bless Your great Name in truth forever, for it is good, \
+God of our salvation and our help, selah, the beneficent God:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יֻהֻוֻהֻ, הַטּוֹב שִׁמְךָ וּלְךָ נָאֶה לְהוֹדוֹת:],
+  [Blessed are You, Adonoy, the Beneficent is Your Name, and to You it is fitting to give thanks:]
+)
+
+#linear_translation(
+  [שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה, \
+חַיִּים חֵן וָחֶֽסֶד וְרַֽחֲמִים, \
+עָלֵֽינוּ וְעַל כָּל־יִשְׂרָאֵל עַמֶּֽךָ.],
+  [Grant peace, goodness, and blessing, \
+life, grace, kindness, and mercy, \
+upon us and upon all Yisrael Your people.]
+)
+
+#linear_translation(
+  [וּבָֽרְכֵֽנוּ אָבִֽינוּ כֻּלָּֽנוּ כְּאֶחָד בְּאוֹר פָּנֶֽיךָ, \
+כִּי בְאוֹר פָּנֶֽיךָ נָתַֽתָּ לָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ תּוֹרָה וְחַיִּים, \
+אַֽהֲבָה וָחֶֽסֶד, צְדָקָה וְרַֽחֲמִים, בְּרָכָה וְשָׁלוֹם.],
+  [Bless us, our Father, all of us as one, with the light of Your countenance, \
+for by the light of Your countenance You gave us, Adonoy our God, Torah and life, \
+love and kindness, righteousness and mercy, blessing and peace.]
+)
+
+#linear_translation(
+  [וְטוֹב בְּעֵינֶֽיךָ לְבָֽרְכֵֽנוּ וּלְבָרֵךְ אֶת־כָּל־עַמְּךָ יִשְׂרָאֵל, \
+בְּרֹב עֹז וְשָׁלוֹם:],
+  [And may it be good in Your eyes to bless us and to bless all Your people Yisrael, \
+with abundant strength and peace:]
+)
+
+#linear_translation(
+  [בָּרוּךְ אַתָּה יוּהוּווּהוּ, הַמְּבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָּׁלוֹם. אָמֵן:],
+  [Blessed are You, Adonoy, Who blesses His people Yisrael with peace. Amen:]
+)
+
+#linear_translation(
+  [אֱלֹהַי, נְצֹר לְשׁוֹנִי מֵרָע וְשִׂפְתוֹתַי מִדַּבֵּר מִרְמָה, \
+וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּֽעָפָר לַכֹּל תִּֽהְיֶה,],
+  [My God, guard my tongue from evil and my lips from speaking deceit, \
+and to those who curse me let my soul be silent, and let my soul be like dust to all;]
+)
+
+#linear_translation(
+  [פְּתַח לִבִּי בְּתוֹרָתֶֽךָ, וְאַחֲרֵי מִצְוֹתֶֽיךָ תִּרְדֹּף נַפְשִׁי. \
+וְכָל־הַקָּמִים עָלַי לְרָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחְשְׁבוֹתָם.],
+  [open my heart to Your Torah, and after Your commandments let my soul pursue. \
+And all who rise up against me for evil, speedily thwart their counsel and ruin their schemes.]
+)
+
+#linear_translation(
+  [יִֽהְי֗וּ כְּמֹ֥ץ לִפְנֵי־ר֑וּחַ וּמַלְאַ֖ךְ יְהֹוָ֣ה דּוֹחֶֽה. \
+קַבֵּל רִנַּת עַמֶּךָ. שַׂגְּבֵנוּ טַהֲרֵנוּ נוֹרָא.],
+  [May they be like chaff before the wind, with the angel of Adonoy thrusting them away. \
+Accept the song of Your people; elevate us, purify us, Awesome One.]
+)
+
+#linear_translation(
+  [עֲשֵׂה לְמַֽעַן שְׁמָךְ, עֲשֵׂה לְמַֽעַן יְמִינָךְ, \
+עֲשֵׂה לְמַֽעַן תּֽוֹרָתָךְ, עֲשֵׂה לְמַֽעַן קְדֻשָּׁתָךְ.],
+  [Act for the sake of Your Name, act for the sake of Your right hand, \
+act for the sake of Your Torah, act for the sake of Your holiness.]
+)
+
+#linear_translation(
+  [לְ֭מַעַן יֵחָלְצ֣וּן יְדִידֶ֑יךָ \
+הוֹשִׁ֖יעָה יְמִֽינְךָ֣ וַעֲנֵֽנִי:],
+  [So that Your beloved ones may be delivered, \
+save with Your right hand and answer me:]
+)
+
+#linear_translation(
+  [יִֽהְי֥וּ לְרָצ֨וֹן ׀ אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ \
+יְ֝הֹוָ֗ה צוּרִ֥י וְגֹאֲלִֽי׃],
+  [May the words of my mouth and the meditation of my heart be acceptable before You, \
+Adonoy, my Rock and my Redeemer.]
+)
+
+#linear_translation(
+  [עֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו, הוּא בְּרַחֲמָיו יַעֲשֶׂה שָׁלוֹם עָלֵֽינוּ, \
+וְעַל כָּל־עַמּוֹ יִשְׂרָאֵל, וְאִמְרוּ אָמֵן:],
+  [May He Who makes peace in His heights, in His mercy make peace upon us, \
+and upon all His people Yisrael, and say Amen:]
+)
+
+#linear_translation(
+  [יְהִי רָצוֹן מִלְּפָנֶֽיךָ, יְהֹוָה אֱלֹהֵֽינוּ וֵֽאלֹהֵי אֲבוֹתֵֽינוּ, \
+שֶׁתִּבְנֶה בֵּית הַמִּקְדָשׁ בִּמְהֵרָה בְיָמֵֽינוּ, \
+וְתֵן חֶלְקֵֽנוּ בְתוֹרָתָךְ לַעֲשׂוֹת חֻקֵּי רְצוֹנָךְ וּלְעָבְדָךְ בְּלֵבָב שָׁלֵם:],
+  [May it be the will before You, Adonoy our God and God of our fathers, \
+that You rebuild the Holy Temple speedily in our days, \
+and grant our portion in Your Torah to perform the statutes of Your will and to serve You wholeheartedly:]
+)
