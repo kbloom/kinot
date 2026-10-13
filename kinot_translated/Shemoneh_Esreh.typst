@@ -1,5 +1,21 @@
 #import "../utils.typst": linear_translation
 
+#let chazara(content) = {
+block(
+  fill:luma(230),
+  inset:8pt,
+  width:100%,
+  content
+)
+}
+
+#let hebrew(content) = {
+      set text(font: "SBL Hebrew", lang: "he", dir: rtl, style: "normal")
+      set align(center)
+      content
+}
+
+
 #linear_translation(
   [אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח \
 וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ׃],
@@ -73,6 +89,16 @@ Blessed are You, Adonoy, \
 Who revives the dead:]
 )
 
+#chazara(hebrew([
+נַקְדִּישָׁךְ וְנַעֲרִיצָךְ, כְּנֹֽעַם שִֽׂיחַ סוֹד שַׂרְפֵי קֹֽדֶשׁ, הַמְשַׁלְּשִׁים לְךָ קְדֻשָּׁה, וְכֵן כָּתוּב עַל יַד נְבִיאָךְ: \
+וְקָרָ֨א זֶ֤ה אֶל־זֶה֙ וְאָמַ֔ר \
+קָד֧וֹשׁ ׀ קָד֛וֹשׁ קָד֖וֹשׁ יְהֹוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל־הָאָ֖רֶץ כְּבוֹדֽוֹ׃ \
+לְעֻמָּתָם מְשַׁבְּחִים וְאוֹמְרִים: \
+בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃ \
+וּבְדִבְרֵי קָדְשָׁךְ כָּתוּב לֵאמֹר: \
+יִמְלֹ֤ךְ יְהֹוָ֨ה ׀ לְעוֹלָ֗ם אֱלֹהַ֣יִךְ צִ֭יּוֹן לְדֹ֥ר וָדֹ֗ר הַֽלְלוּיָֽהּ:
+]))
+
 #linear_translation(
   [אַתָּה קָדוֹשׁ וְשִׁמְךָ קָדוֹשׁ, \
 וּקְדוֹשִׁים בְּכָל־יוֹם יְהַֽלְלֽוּךָ סֶּֽלָה: \
@@ -141,6 +167,11 @@ for a mighty Redeemer are You: \
 Blessed are You, Adonoy, \
 Redeemer of Yisrael:]
 )
+
+#chazara(hebrew([
+עֲנֵֽנוּ אָבִינוּ עֲנֵֽנוּ בְּיוֹם צוֹם הַתַּֽעֲנִית הַזֶּה, כִּי בְצָרָה גְדוֹלָה אֲנָֽחְנוּ. אַל־תֵּֽפֶן לְרִשְׁעֵֽנוּ, וְאַל־תִּתְעַלָּם מַלְכֵּֽנוּ מִבַּקָּשָׁתֵֽנוּ. הֱיֵה נָא קָרוֹב לְשַׁוְעָתֵֽנוּ, טֶֽרֶם נִקְרָא אֵלֶֽיךָ אַתָּה תַעֲנֶה, נְדַבֵּר וְאַתָּה תִשְׁמַע, כַּדָּבָר שֶׁנֶּאֱמַר: וְהָיָ֥ה טֶֽרֶם־יִקְרָ֖אוּ וַאֲנִ֣י אֶעֱנֶ֑ה ע֛וֹד הֵ֥ם מְדַבְּרִ֖ים וַאֲנִ֥י אֶשְׁמָֽע: כִּי אַתָּה יְהֹוָה פּוֹדֶה וּמַצִּיל, וְעוֹנֶה וּמְרַחֵם בְּכָל־עֵת צָרָה וְצוּקָה: \
+בָּרוּךְ אַתָּה יְהֹוָה הָעוֹנֶה לְעַמּוֹ יִשְׂרָאֵל בְּעֵת צָרָה:
+]))
 
 #linear_translation(
   [רְפָאֵֽנוּ יְהֹוָה וְנֵֽרָפֵא, \
@@ -352,6 +383,8 @@ do not turn us away empty-handed; \
 favor us and answer us and hear our prayer.]
 )
 
+Individuals who are fasting say Aneinu here. During the chazara it was already said earlier.
+
 #linear_translation(
   [עֲנֵנוּ אָבִינוּ עֲנֵנוּ \
 בְּיוֹם צוֹם הַתַּֽעֲנִית הַזֶּה \
@@ -425,7 +458,8 @@ Blessed are You, Adonoy, \
 Who returns His Divine Presence to Tzion:]
 )
 
-#linear_translation(
+#chazara(
+ linear_translation(
   [מוֹדִים אֲנַחְנוּ לָךְ, \
 שֶׁאַתָּה הוּא יְהֹוָה אֱלֹהֵינוּ \
 וֵאלֹהֵי אֲבוֹתֵינוּ, \
@@ -454,7 +488,7 @@ to keep Your statutes, to do Your will, \
 and to serve You wholeheartedly, \
 for which we give thanks to You; \
 blessed is the God of thanksgivings.]
-)
+))
 
 #linear_translation(
   [מוֹדִים אֲנַֽחְנוּ לָךְ, \
