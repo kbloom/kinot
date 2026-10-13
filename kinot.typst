@@ -135,11 +135,6 @@ Under the CC BY 3.0 license. The terms of the licence are at https://creativecom
 
 #outline(depth:2)
 
-= Shemoneh Esreh for Tisha b'Av
-
-#include "kinot_translated/Shemoneh_Esreh.typst"
-#hrule
-
 = Before Arvit
 
 #siddur_grid(
@@ -164,6 +159,15 @@ Under the CC BY 3.0 license. The terms of the licence are at https://creativecom
 #hrule
 
 Tefillat Arvit is said through the end of the Amidah, Yehi Shem, and Chatzi Kaddish.
+
+#hrule
+
+= Shemoneh Esreh for Tisha b'Av
+
+Many congregations have the custom to say Nachem at Arvit and Shacharit (in addition to Mincha when all congregations say it). The text of the Amidah included here reflects this custom, and may be used at all 3 services.
+
+#include "kinot_translated/Shemoneh_Esreh.typst"
+
 
 #hrule
 = After Arvit Shemoneh Esreh

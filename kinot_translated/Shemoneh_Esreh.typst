@@ -89,15 +89,22 @@ Blessed are You, Adonoy, \
 Who revives the dead:]
 )
 
-#chazara(hebrew([
+#chazara({
+[Kedushah is said during the repetition at Shacharit and Mincha.]
+set par(leading:1em)
+hebrew([
 נַקְדִּישָׁךְ וְנַעֲרִיצָךְ, כְּנֹֽעַם שִֽׂיחַ סוֹד שַׂרְפֵי קֹֽדֶשׁ, הַמְשַׁלְּשִׁים לְךָ קְדֻשָּׁה, וְכֵן כָּתוּב עַל יַד נְבִיאָךְ: \
 וְקָרָ֨א זֶ֤ה אֶל־זֶה֙ וְאָמַ֔ר \
-קָד֧וֹשׁ ׀ קָד֛וֹשׁ קָד֖וֹשׁ יְהֹוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל־הָאָ֖רֶץ כְּבוֹדֽוֹ׃ \
+#text(1.5em)[
+קָד֧וֹשׁ ׀ קָד֛וֹשׁ קָד֖וֹשׁ יְהֹוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל־הָאָ֖רֶץ כְּבוֹדֽוֹ׃ ]\
 לְעֻמָּתָם מְשַׁבְּחִים וְאוֹמְרִים: \
-בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃ \
+#text(1.5em)[
+בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃ ]\
 וּבְדִבְרֵי קָדְשָׁךְ כָּתוּב לֵאמֹר: \
-יִמְלֹ֤ךְ יְהֹוָ֨ה ׀ לְעוֹלָ֗ם אֱלֹהַ֣יִךְ צִ֭יּוֹן לְדֹ֥ר וָדֹ֗ר הַֽלְלוּיָֽהּ:
-]))
+#text(1.5em)[
+יִמְלֹ֤ךְ יְהֹוָ֨ה ׀ לְעוֹלָ֗ם אֱלֹהַ֣יִךְ צִ֭יּוֹן לְדֹ֥ר וָדֹ֗ר הַֽלְלוּיָֽהּ:]
+])}
+)
 
 #linear_translation(
   [אַתָּה קָדוֹשׁ וְשִׁמְךָ קָדוֹשׁ, \
@@ -168,10 +175,13 @@ Blessed are You, Adonoy, \
 Redeemer of Yisrael:]
 )
 
-#chazara(hebrew([
+#chazara({
+[The Chazan says Aneinu here during the repetition at Shacharit and Mincha.]
+hebrew([
 עֲנֵֽנוּ אָבִינוּ עֲנֵֽנוּ בְּיוֹם צוֹם הַתַּֽעֲנִית הַזֶּה, כִּי בְצָרָה גְדוֹלָה אֲנָֽחְנוּ. אַל־תֵּֽפֶן לְרִשְׁעֵֽנוּ, וְאַל־תִּתְעַלָּם מַלְכֵּֽנוּ מִבַּקָּשָׁתֵֽנוּ. הֱיֵה נָא קָרוֹב לְשַׁוְעָתֵֽנוּ, טֶֽרֶם נִקְרָא אֵלֶֽיךָ אַתָּה תַעֲנֶה, נְדַבֵּר וְאַתָּה תִשְׁמַע, כַּדָּבָר שֶׁנֶּאֱמַר: וְהָיָ֥ה טֶֽרֶם־יִקְרָ֖אוּ וַאֲנִ֣י אֶעֱנֶ֑ה ע֛וֹד הֵ֥ם מְדַבְּרִ֖ים וַאֲנִ֥י אֶשְׁמָֽע: כִּי אַתָּה יְהֹוָה פּוֹדֶה וּמַצִּיל, וְעוֹנֶה וּמְרַחֵם בְּכָל־עֵת צָרָה וְצוּקָה: \
 בָּרוּךְ אַתָּה יְהֹוָה הָעוֹנֶה לְעַמּוֹ יִשְׂרָאֵל בְּעֵת צָרָה:
-]))
+])
+})
 
 #linear_translation(
   [רְפָאֵֽנוּ יְהֹוָה וְנֵֽרָפֵא, \
@@ -383,7 +393,9 @@ do not turn us away empty-handed; \
 favor us and answer us and hear our prayer.]
 )
 
-Individuals who are fasting say Aneinu here. During the chazara it was already said earlier.
+#block(sticky: true)[
+Individuals who are fasting say Aneinu here. During the repetition at Shacharit and Mincha, the Chazan said it earlier, and does not say it here.
+]
 
 #linear_translation(
   [עֲנֵנוּ אָבִינוּ עֲנֵנוּ \
@@ -419,6 +431,8 @@ For You, Adonoy, redeem and rescue, \
 and answer and have mercy \
 in every time of distress and anguish.]
 )
+
+All continue here.
 
 #linear_translation(
   [כִּי אַתָּה שׁוֹמֵעַ תְּפִלַּת כָּל־פֶּה: \
@@ -458,7 +472,8 @@ Blessed are You, Adonoy, \
 Who returns His Divine Presence to Tzion:]
 )
 
-#chazara(
+#chazara({
+ [During the repetition at Shacharit and Mincha, individuals say Modim d'Rabbanan quietly while the Chazan says Modim below.]
  linear_translation(
   [מוֹדִים אֲנַחְנוּ לָךְ, \
 שֶׁאַתָּה הוּא יְהֹוָה אֱלֹהֵינוּ \
@@ -488,7 +503,8 @@ to keep Your statutes, to do Your will, \
 and to serve You wholeheartedly, \
 for which we give thanks to You; \
 blessed is the God of thanksgivings.]
-))
+)
+})
 
 #linear_translation(
   [מוֹדִים אֲנַֽחְנוּ לָךְ, \
@@ -546,6 +562,8 @@ Blessed are You, Adonoy, \
 the Beneficent is Your Name, \
 and to You it is fitting to give thanks:]
 )
+
+#chazara([Birkat Kohaim is said here during the repetition at Shacharit and Mincha. The full text has been omitted for simplicity.])
 
 #linear_translation(
   [שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה, \
